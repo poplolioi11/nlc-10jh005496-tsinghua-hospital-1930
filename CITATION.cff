@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
-title: "國立清華大學醫院報告書 (第一次) | First Report of the Hospital of National Tsing Hua University"
+title: "國立清華大學醫院報告書 (第一次)(國家圖書館 10jh005496/66461) / First Report of the Hospital of National Tsing Hua University: Transcription Dataset"
+doi: "10.5281/zenodo.24361251"
 version: "0.2.0"
 authors:
   - family-names: Chu
