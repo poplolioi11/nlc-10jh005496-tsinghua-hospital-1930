@@ -1,0 +1,5378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>國立清華大學醫院報告書 (第一次)</title>
+        <title type="translated">First Report of the Hospital of National Tsing Hua University</title>
+        <author>國立清華大學醫院</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>國立清華大學醫院報告書 (第一次)</title>
+          <publisher>國立清華大學醫院</publisher>
+          <pubPlace>北平</pubPlace>
+          <date when="1930">1930</date>
+          <idno type="shelfmark">國家圖書館 10jh005496／66461</idno>
+          <ref target="https://commons.wikimedia.org/w/index.php?curid=131032437" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page1-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page2-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page3-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page4-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page5-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page6-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page7-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page8-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page9-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page10-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page11-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page12-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page13-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page14-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page15-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page16-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page17-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page18-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="19" xml:id="page-19">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page19-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="20" xml:id="page-20">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page20-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="21" xml:id="page-21">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page21-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="22" xml:id="page-22">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page22-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="23" xml:id="page-23">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page23-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="24" xml:id="page-24">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page24-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="25" xml:id="page-25">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page25-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="26" xml:id="page-26">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page26-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="27" xml:id="page-27">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page27-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="28" xml:id="page-28">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page28-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="29" xml:id="page-29">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page29-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="30" xml:id="page-30">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page30-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="31" xml:id="page-31">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page31-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="32" xml:id="page-32">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page32-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="33" xml:id="page-33">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page33-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="34" xml:id="page-34">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page34-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="35" xml:id="page-35">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page35-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+    <surface n="36" xml:id="page-36">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf/page36-1920px-NLC416-10jh005496-66461_%E5%9C%8B%E7%AB%8B%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p001-u001">國立清華大學醫院報告書</ab>
+        <ab type="heading" n="p001-u002">第弌次</ab>
+        <ab type="imprint" n="p001-u003">十九年七月</ab>
+        <pb n="2" facs="#page-2" />
+        <ab type="heading" n="p002-u001">國立清華大學醫院報告書</ab>
+        <ab type="heading" n="p002-u002">第弌次</ab>
+        <ab type="imprint" n="p002-u003">十九年七月</ab>
+        <pb n="3" facs="#page-3" />
+        <fw type="running" n="p003-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p003-u002">目錄</ab>
+        <ab type="toc" n="p003-u003">校醫院辦事人員表	i</ab>
+        <ab type="toc" n="p003-u004">校醫院年終報告	1—2</ab>
+        <ab type="toc" n="p003-u005">爛腳丫之調查	3—6</ab>
+        <ab type="toc" n="p003-u006">學生身體檢查結果表	7</ab>
+        <ab type="toc" n="p003-u007">校工身體檢查結果表	8</ab>
+        <ab type="toc" n="p003-u008">住院病人及住院時日表	9</ab>
+        <ab type="toc" n="p003-u009">每月各科診病之次數表	10</ab>
+        <ab type="toc" n="p003-u010">本學年新發現肺癆表	10</ab>
+        <ab type="toc" n="p003-u011">病症分類統計表	11—30</ab>
+        <ab type="toc" n="p003-u012">本年醫院出版品	31</ab>
+        <pb n="4" facs="#page-4" />
+        <fw type="running" n="p004-u001">清華大學校醫院第一次報告書</fw>
+        <table n="p004-u002">
+          <row>
+            <cell>校醫</cell>
+            <cell>李岡＊</cell>
+            <cell>主任</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>盧永春</cell>
+            <cell>代理主任</cell>
+          </row>
+          <row>
+            <cell />
+            <cell>戈紹龍＊＊</cell>
+            <cell />
+          </row>
+          <row>
+            <cell />
+            <cell>孟憲燕＊＊＊</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>護士</cell>
+            <cell>金紹志</cell>
+            <cell />
+          </row>
+          <row>
+            <cell />
+            <cell>劉殿華</cell>
+            <cell />
+          </row>
+          <row>
+            <cell />
+            <cell>劉崇凡</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>司事</cell>
+            <cell>李文通</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="footnote" n="p004-u010">＊　在假</ab>
+        <ab type="footnote" n="p004-u011">＊＊　五月到校</ab>
+        <ab type="footnote" n="p004-u012">＊＊＊　十二月至四月在校</ab>
+        <fw type="folio" n="p004-u013">i</fw>
+        <pb n="5" facs="#page-5" />
+        <fw type="running" n="p005-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p005-u002">校醫院年終報告</ab>
+        <ab type="body" n="p005-u003">學校醫院之設立，首重預防疾病，增進健康，無統計，則無</ab>
+        <ab type="body" n="p005-u004">相當之目的，此即本年統計創作之宗旨，所以為來年衞生施設之</ab>
+        <ab type="body" n="p005-u005">南針。</ab>
+        <ab type="body" n="p005-u006">本校地處北平西郊，與郊外大鎭海淀近，海淀四週有多數之</ab>
+        <ab type="body" n="p005-u007">村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限</ab>
+        <ab type="body" n="p005-u008">於一千四百餘人之教職員學生校工，即臨近之海淀日有病人來診，</ab>
+        <ab type="body" n="p005-u009">近隣小學校與新農學校之學生來診病者，非獨門診日必數起，兼</ab>
+        <ab type="body" n="p005-u010">有留院治療者，幾與市中施醫院同，蓋不得已而然者；故校醫院</ab>
+        <ab type="body" n="p005-u011">之範圍，為本大學之衞生機官，治療醫院，亦為近隣之施醫院。</ab>
+        <ab type="body" n="p005-u012">醫院統計所本者為病史記錄；本校醫院前此之病史，記錄用</ab>
+        <ab type="body" n="p005-u013">簿計式，可以垂久，然不便於用。於十八年十月，乃採用活頁病</ab>
+        <ab type="body" n="p005-u014">史記錄；按病人照丁拼音名字，順字母分前後而列之，便於取用</ab>
+        <ab type="body" n="p005-u015">記錄，於統計尤為便利；於是身體檢查之記錄，健康史，首頁記</ab>
+        <ab type="body" n="p005-u016">診斷病名，病史治療章，實驗室之報告，溫度圖線表，皆可順月</ab>
+        <ab type="body" n="p005-u017">日之次序而訂之。</ab>
+        <ab type="body" n="p005-u018">校醫院既為本校公共衞生機官，故公共衞生之施設，宜重於</ab>
+        <ab type="body" n="p005-u019">治療。十八年十一月，乃分本校各處為十四區，每區設學生衞生</ab>
+        <ab type="body" n="p005-u020">幹事一人，由學生會衞生股股長委派；其他如校工住宿之區，管</ab>
+        <ab type="body" n="p005-u021">理仍舊，由庶務處雜務股指導；而校醫院則於規定時日派專人查</ab>
+        <ab type="body" n="p005-u022">看監督，期於無碍於健康，此為管理上之建設。</ab>
+        <ab type="body" n="p005-u023">沙眼病之流行，最為普通，因有護士一人專管之。學生工人</ab>
+        <ab type="body" n="p005-u024">之有沙眼者，一經查出，則記名於沙眼治療冊上，凡來治者，則</ab>
+        <ab type="body" n="p005-u025">於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知</ab>
+        <ab type="body" n="p005-u026">之。再函未來者，則通知教務長或庶務長，務使必來，至痊愈時</ab>
+        <ab type="body" n="p005-u027">終止。本年每日來治者頗為擁擠，事先鉛印之通告函尚未用畢，</ab>
+        <ab type="body" n="p005-u028">而學生與工人皆知此治療之重要，故教務處與庶務處之通知函少</ab>
+        <fw type="folio" n="p005-u029">1</fw>
+        <pb n="6" facs="#page-6" />
+        <fw type="running" n="p006-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="body" n="p006-u002">有用者。</ab>
+        <ab type="body" n="p006-u003">白喉免疫注射，於十八年十二月施行，本校十五歲以下之孩</ab>
+        <ab type="body" n="p006-u004">童（是時本校孩童共九十二人）來試錫克試驗者，共六十七人。內</ab>
+        <ab type="body" n="p006-u005">中除三人外，餘皆有最強之反應，因行免疫注射。十九年六月，</ab>
+        <ab type="body" n="p006-u006">發現白喉症一人，適為未受免疫注射者。</ab>
+        <ab type="body" n="p006-u007">傷寒免疫注射共二十二人。</ab>
+        <ab type="body" n="p006-u008">種牛痘者，共約千人，大半皆為學生；隣近小學校之學生最</ab>
+        <ab type="body" n="p006-u009">多，本校學生次之，工人來者甚稀。</ab>
+        <ab type="body" n="p006-u010">本校慢性傳染流行症，有沙眼，居百分之十九點五，見學生</ab>
+        <ab type="body" n="p006-u011">身體檢查之結果一表。有爛腳丫，居百分之三十三，見爛腳丫之</ab>
+        <ab type="body" n="p006-u012">調查。有肺癆，教職員校工除外，學生中有肺癆者十五人，居百</ab>
+        <ab type="body" n="p006-u013">分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中</ab>
+        <ab type="body" n="p006-u014">共發現有肺癆者九人，見本學年肺癆新發現者一表。</ab>
+        <ab type="body" n="p006-u015">急性傳染流行症有招凉，在十九年一月為最。有麻疹，共二</ab>
+        <ab type="body" n="p006-u016">十一人，在五月最盛。痢疾為本校附近常有之症，輕性痢疾約共</ab>
+        <ab type="body" n="p006-u017">二十餘人，毒性痢疾共二人，校外來診治者亦有數人。</ab>
+        <ab type="body" n="p006-u018">本校醫院向無細菌學實驗室，血清診斷如華氏反應等試驗，</ab>
+        <ab type="body" n="p006-u019">仍如往年，送至北平市衞生診察所檢查。至十九年二月開始飲料</ab>
+        <ab type="body" n="p006-u020">生物分析，每次結果皆公布於校刊，除體育館游泳池當必有消毒</ab>
+        <ab type="body" n="p006-u021">方法方可應用外，餘皆合衞生須要。</ab>
+        <ab type="heading" n="p006-u022">飲料檢查表</ab>
+        <table n="p006-u023">
+          <row>
+            <cell>檢查物來源地</cell>
+            <cell>檢查物</cell>
+            <cell>檢查次數</cell>
+          </row>
+          <row>
+            <cell>模範奶場</cell>
+            <cell>牛奶</cell>
+            <cell>五</cell>
+          </row>
+          <row>
+            <cell>體育館游泳池</cell>
+            <cell>池水</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>醫院</cell>
+            <cell>自來水</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>南院</cell>
+            <cell>同上</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>模範奶場</cell>
+            <cell>同上</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>西院</cell>
+            <cell>同上</cell>
+            <cell>一</cell>
+          </row>
+          <row>
+            <cell>北院</cell>
+            <cell>同上</cell>
+            <cell>二</cell>
+          </row>
+          <row>
+            <cell>消費合作社</cell>
+            <cell>汽水</cell>
+            <cell>一</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p006-u032">2</fw>
+        <pb n="7" facs="#page-7" />
+        <fw type="running" n="p007-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p007-u002">爛腳丫之調查</ab>
+        <ab type="author" n="p007-u003">盧永春</ab>
+        <ab type="body" n="p007-u004">凡有公共游泳池的場所很難免爛腳丫的流行，這是傳染病的</ab>
+        <ab type="body" n="p007-u005">表示。至於流行的盛衰，全視游泳池的設備是否充分的應用，游</ab>
+        <ab type="body" n="p007-u006">泳人的公德心是否存在，個人衞生的習慣是否養成。此次爛腳丫</ab>
+        <ab type="body" n="p007-u007">的調查，正在去年秋末，夏季新得爛腳丫的，大概尚未痊癒。調</ab>
+        <ab type="body" n="p007-u008">查的範圍，只限於在校學生，因教職員中去游泳的甚屬稀罕。共發</ab>
+        <ab type="body" n="p007-u009">問話單五百份，其退回中答話完全可資研究者，共二○九份。是</ab>
+        <ab type="body" n="p007-u010">時答有爛腳丫的共六九人，占全數的百分之三十三。是年冬。學</ab>
+        <ab type="body" n="p007-u011">生身體檢查，共檢查三四八人，有爛腳丫者只五八人，是全數的</ab>
+        <ab type="body" n="p007-u012">百分之一六・六。似乎在冬天的時候爛腳丫病略減少，其實爛腳</ab>
+        <ab type="body" n="p007-u013">丫一病，確與氣候有關係，夏日天熱，腳易出汗，爛腳丫之細菌</ab>
+        <ab type="body" n="p007-u014">有了潮濕的環境，容易繁殖；冬日腳出汗較少，細菌不易繁殖，</ab>
+        <ab type="body" n="p007-u015">爛腳丫的實數因此減少；然牠的潛勢力，若不用藥治療仍能於春</ab>
+        <ab type="body" n="p007-u016">末夏初，死灰復燃的起來（見第一表）。</ab>
+        <ab type="heading" n="p007-u017">第一表　每月爛腳丫患者</ab>
+        <table n="p007-u018">
+          <row>
+            <cell>月份</cell>
+            <cell>內科病</cell>
+            <cell>爛腳丫類病</cell>
+            <cell>百分數</cell>
+          </row>
+          <row>
+            <cell>八月至十月</cell>
+            <cell>557</cell>
+            <cell>66</cell>
+            <cell>11.8</cell>
+          </row>
+          <row>
+            <cell>十一月</cell>
+            <cell>315</cell>
+            <cell>31</cell>
+            <cell>9.8</cell>
+          </row>
+          <row>
+            <cell>十二月</cell>
+            <cell>372</cell>
+            <cell>25</cell>
+            <cell>6.7</cell>
+          </row>
+          <row>
+            <cell>十九年一月</cell>
+            <cell>271</cell>
+            <cell>21</cell>
+            <cell>7.7</cell>
+          </row>
+          <row>
+            <cell>二月</cell>
+            <cell>139</cell>
+            <cell>11</cell>
+            <cell>7.9</cell>
+          </row>
+          <row>
+            <cell>三月</cell>
+            <cell>276</cell>
+            <cell>27</cell>
+            <cell>9.7</cell>
+          </row>
+          <row>
+            <cell>四月</cell>
+            <cell>220</cell>
+            <cell>27</cell>
+            <cell>12.2</cell>
+          </row>
+          <row>
+            <cell>五月</cell>
+            <cell>269</cell>
+            <cell>31</cell>
+            <cell>11.5</cell>
+          </row>
+        </table>
+        <ab type="body" n="p007-u027">爛腳丫既如是之多，在醫院裏工作上占何地位，此當看來院就</ab>
+        <fw type="folio" n="p007-u028">3</fw>
+        <pb n="8" facs="#page-8" />
+        <fw type="running" n="p008-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="body" n="p008-u002">診者中有多少人有此病。在這第一表內所列爛腳丫病人，比實際</ab>
+        <ab type="body" n="p008-u003">數目較少，一因有許多有爛腳丫的，都經診治過了一次，即自動</ab>
+        <ab type="body" n="p008-u004">的在外科換藥室每日自己擦藥，又有將藥帶至寢室自敷者，再來取</ab>
+        <ab type="body" n="p008-u005">藥時，為省減病人時間的原故，每每不必掛號，即給藥一貼而去，</ab>
+        <ab type="body" n="p008-u006">故每月統計內多遺去此病。除此種病人外，所統計者皆新得爛腳</ab>
+        <ab type="body" n="p008-u007">丫必待診斷者，或因爛腳丫而受他種傳染，必待另用他藥治療者，</ab>
+        <ab type="body" n="p008-u008">再者胯下癬與爛腳丫同為一病，只因區域不同，病狀因之而異，</ab>
+        <ab type="body" n="p008-u009">故亦列於爛腳丫病人數目內。驟視之，此數目雖為數少，但在每</ab>
+        <ab type="body" n="p008-u010">月統計病症中，除感冒病外，他症之流行，無超出此病者。</ab>
+        <ab type="body" n="p008-u011">去年秋季始業時，新生入學身體檢查，因爛腳丫病者不在被</ab>
+        <ab type="body" n="p008-u012">拒之列，故未暇統計其實數；然據學生自述，六十九人中原無爛</ab>
+        <ab type="body" n="p008-u013">腳丫，自入本校後始有者三十三人；在此三十三人中在其自可記</ab>
+        <ab type="body" n="p008-u014">憶之時起，直至入本校為止，並未曾有斯病，亦未曾有而近復發</ab>
+        <ab type="body" n="p008-u015">者，如是則本校之爛腳丫病者，有半數（百分之四七・九）由入本</ab>
+        <ab type="body" n="p008-u016">校而後得，本校爛腳丫之傳染誠甚盛也。</ab>
+        <ab type="body" n="p008-u017">若以爛腳丫一病皆由公共浴所而得。見第二表，則知大半有</ab>
+        <ab type="body" n="p008-u018">爛腳丫之病人，皆少有至澡堂浴，如是可推求市中之澡堂，其中</ab>
+        <ab type="body" n="p008-u019">必有數事較本校浴室衞生設備較好，或學生在校浴室內少有注意</ab>
+        <ab type="body" n="p008-u020">個人衞生習慣，因而自招其病，或將已有之病，在無意中傳染他</ab>
+        <ab type="body" n="p008-u021">人，第二表內統計之數，已除去在本校始受傳染之三十三人，故</ab>
+        <ab type="body" n="p008-u022">內中所計包括前有爛腳丫，現已痊愈者多人，此表所列，在以校</ab>
+        <ab type="body" n="p008-u023">外之爛腳丫傳染機會與本校內比。然爛腳丫之傳染機會，不僅限</ab>
+        <ab type="heading" n="p008-u024">第二表　有爛腳丫者洗澡之習慣</ab>
+        <table n="p008-u025">
+          <row>
+            <cell>在家中洗澡者</cell>
+            <cell>36</cell>
+          </row>
+          <row>
+            <cell>在市中澡堂洗澡者</cell>
+            <cell>22</cell>
+          </row>
+          <row>
+            <cell>兩處皆常洗澡者</cell>
+            <cell>11</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p008-u028">4</fw>
+        <pb n="9" facs="#page-9" />
+        <fw type="running" n="p009-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="body" n="p009-u002">於浴室，而此處所以取浴室而比較者，以本校傳染之機會概在浴</ab>
+        <ab type="body" n="p009-u003">室。至於彼此借鞋借浴巾者，亦可為傳染之媒介，在此次調查問</ab>
+        <ab type="body" n="p009-u004">話中已曾提及，學生彼此借用者誠未一見。</ab>
+        <ab type="body" n="p009-u005">有稱爛腳丫為地上濕氣所致。南方潮濕，爛腳丫必多，北方</ab>
+        <ab type="body" n="p009-u006">乾燥，爛腳丫必少。在此次調查中，南方生長之學生有一二五</ab>
+        <ab type="body" n="p009-u007">人，內中五十一人曾有爛腳丫，適居百分之二九・八。北方生長</ab>
+        <ab type="body" n="p009-u008">之學生，有八一人，內有二十三人曾有爛腳丫，乃百分之二五・</ab>
+        <ab type="body" n="p009-u009">九。如是則南方生長之人，其得爛腳丫之機會，較之北方生長之</ab>
+        <ab type="body" n="p009-u010">人相差無幾，地上潮濕，未必為爛腳丫之主因。</ab>
+        <ab type="body" n="p009-u011">在昔本校體育館曾於鼓勵時代由學校供給乾浴巾，是時之爛</ab>
+        <ab type="body" n="p009-u012">腳丫是否如今日之流行，校醫院前無統計，現亦無法考查。以今</ab>
+        <ab type="body" n="p009-u013">日之調查有乾浴巾者一七二人，內中有爛腳丫者五十九人，居百</ab>
+        <ab type="body" n="p009-u014">分之三四・三。無乾浴巾者三七人，內中有爛腳丫者十人，居百</ab>
+        <ab type="body" n="p009-u015">分之二七・○。如此則有乾浴巾者似不能優越無乾浴巾者，是乾</ab>
+        <ab type="body" n="p009-u016">浴巾之有無，誠不能致傳染之輕重。</ab>
+        <ab type="body" n="p009-u017">腳易流汗；鞋襪則易潮濕，利細菌之生長，腳流汗之易不</ab>
+        <ab type="body" n="p009-u018">易，皆足為爛腳丫之近因，今之有爛腳丫者六十九人，內中腳易</ab>
+        <ab type="body" n="p009-u019">流汗者有五十二人，腳不易流汗者十七人，腳易流汗，誠為爛腳</ab>
+        <ab type="body" n="p009-u020">丫原因之一，而主因則為細菌。</ab>
+        <ab type="heading" n="p009-u021">第三表　鞋與爛腳丫之關係</ab>
+        <table n="p009-u022">
+          <row>
+            <cell>有鞋之數</cell>
+            <cell>無爛腳丫者</cell>
+            <cell>有爛腳丫者</cell>
+            <cell>之百分數</cell>
+          </row>
+          <row>
+            <cell>6</cell>
+            <cell>5</cell>
+            <cell>1</cell>
+            <cell>16%</cell>
+          </row>
+          <row>
+            <cell>5</cell>
+            <cell>8</cell>
+            <cell>1</cell>
+            <cell>11%</cell>
+          </row>
+          <row>
+            <cell>4</cell>
+            <cell>22</cell>
+            <cell>11</cell>
+            <cell>33%</cell>
+          </row>
+          <row>
+            <cell>3</cell>
+            <cell>41</cell>
+            <cell>23</cell>
+            <cell>36%</cell>
+          </row>
+          <row>
+            <cell>2</cell>
+            <cell>32</cell>
+            <cell>16</cell>
+            <cell>33%</cell>
+          </row>
+          <row>
+            <cell>1</cell>
+            <cell>24</cell>
+            <cell>8</cell>
+            <cell>25%</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p009-u029">5</fw>
+        <pb n="10" facs="#page-10" />
+        <fw type="running" n="p010-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="body" n="p010-u002">鞋襪汗濕，日久不換，細菌利物之腐爛，最易繁殖。第三表</ab>
+        <ab type="body" n="p010-u003">之調查，表鞋之多少與爛腳丫之關係，以此調查人數過少，所得</ab>
+        <ab type="body" n="p010-u004">百分數稍不一律，然大致近乎鞋多而致傳染者少。</ab>
+        <ab type="body" n="p010-u005">胯下有癬，似與爛腳丫有密切之關係，此次調查中皮膚有癬</ab>
+        <ab type="body" n="p010-u006">者共五十人，此五十人中半有爛腳丫，半無爛腳丫，有胯下癬者</ab>
+        <ab type="body" n="p010-u007">居多數，共三四人。頭上之癬，多由理髮時招來，乃調查本校學</ab>
+        <ab type="body" n="p010-u008">生習慣，其結果如第四表，至於游泳前，不用多量肥皂洗臀部，</ab>
+        <ab type="body" n="p010-u009">或全不洗澡者二○九人中，有一五五人，居百分之七四・一，此</ab>
+        <ab type="body" n="p010-u010">亦可驚人之數目也。</ab>
+        <ab type="heading" n="p010-u011">第四表　理髮後衞生習慣</ab>
+        <table n="p010-u012">
+          <row>
+            <cell>理髮後立刻洗頭者</cell>
+            <cell>81人</cell>
+          </row>
+          <row>
+            <cell>理髮後當天洗頭者</cell>
+            <cell>37人</cell>
+          </row>
+          <row>
+            <cell>理髮後不定洗頭者</cell>
+            <cell>33人</cell>
+          </row>
+          <row>
+            <cell>理髮後全不洗頭者</cell>
+            <cell>58人</cell>
+          </row>
+          <row>
+            <cell>共</cell>
+            <cell>209人</cell>
+          </row>
+        </table>
+        <ab type="body" n="p010-u017">結論　爛腳丫之傳染，全在間接或直接接觸病腳得來。天冷</ab>
+        <ab type="body" n="p010-u018">時易好，苟不悉心治療，頗易復發。地上之潮濕，乾毛巾之有</ab>
+        <ab type="body" n="p010-u019">無，公共浴室，非爛腳丫之主因，而實在之主因為細菌，故浴室</ab>
+        <ab type="body" n="p010-u020">之地，宜求清潔，出水溝宜廣開通暢，勿使水積浸過腳背，又不</ab>
+        <ab type="body" n="p010-u021">可跣足，以免沾染細菌。再者各人衞生習慣，按體育館之通例，</ab>
+        <ab type="body" n="p010-u022">自己養成，則此次調查不為虛枉。</ab>
+        <ab type="footnote" n="p010-u023">此次調查時凡填寫問話單者皆宜致謝</ab>
+        <fw type="folio" n="p010-u024">6</fw>
+        <pb n="11" facs="#page-11" />
+        <fw type="running" n="p011-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p011-u002">學生身體檢查之結果</ab>
+        <ab type="heading" n="p011-u003">共三四八人</ab>
+        <table n="p011-u004">
+          <row>
+            <cell>病</cell>
+            <cell>人數</cell>
+            <cell>百分數</cell>
+          </row>
+          <row>
+            <cell>近視</cell>
+            <cell>177</cell>
+            <cell>50.8</cell>
+          </row>
+          <row>
+            <cell>沙眼</cell>
+            <cell>68</cell>
+            <cell>19.5</cell>
+          </row>
+          <row>
+            <cell>爛腳丫</cell>
+            <cell>58</cell>
+            <cell>16.6</cell>
+          </row>
+          <row>
+            <cell>齲齒</cell>
+            <cell>53</cell>
+            <cell>15.2</cell>
+          </row>
+          <row>
+            <cell>包莖</cell>
+            <cell>26</cell>
+            <cell>7.4</cell>
+          </row>
+          <row>
+            <cell>粉刺</cell>
+            <cell>20</cell>
+            <cell>5.7</cell>
+          </row>
+          <row>
+            <cell>胯下癬</cell>
+            <cell>15</cell>
+            <cell>4.3</cell>
+          </row>
+          <row>
+            <cell>中耳炎</cell>
+            <cell>12</cell>
+            <cell>3.4</cell>
+          </row>
+          <row>
+            <cell>痔</cell>
+            <cell>8</cell>
+            <cell>2.4</cell>
+          </row>
+          <row>
+            <cell>聽覺不敏</cell>
+            <cell>6</cell>
+            <cell>1.7</cell>
+          </row>
+          <row>
+            <cell>齒槽膿毒</cell>
+            <cell>5</cell>
+            <cell>1.4</cell>
+          </row>
+          <row>
+            <cell>腎炎</cell>
+            <cell>4</cell>
+            <cell>1.2</cell>
+          </row>
+          <row>
+            <cell>臀部癬</cell>
+            <cell>3</cell>
+            <cell>0.9</cell>
+          </row>
+          <row>
+            <cell>神經皮膚炎</cell>
+            <cell>3</cell>
+            <cell>0.9</cell>
+          </row>
+          <row>
+            <cell>肺癆</cell>
+            <cell>3</cell>
+            <cell>0.9</cell>
+          </row>
+          <row>
+            <cell>腹壁癬</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>扁桃體過大</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>指甲癬</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>項癬</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>股癬</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>耳鼓破</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell><gap reason="unresolved" quantity="1" unit="character" />維症</cell>
+            <cell>2</cell>
+            <cell>0.6</cell>
+          </row>
+          <row>
+            <cell>面癬</cell>
+            <cell>1</cell>
+            <cell>0.3</cell>
+          </row>
+          <row>
+            <cell>腳癬</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+        </table>
+        <table n="p011-u029">
+          <row>
+            <cell>病</cell>
+            <cell>人數</cell>
+            <cell>百分數</cell>
+          </row>
+          <row>
+            <cell>睾丸未下</cell>
+            <cell>1</cell>
+            <cell>0.3</cell>
+          </row>
+          <row>
+            <cell><gap reason="unresolved" quantity="1" unit="character" /></cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>心律不齊</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>赫尼亞（疝氣）</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>雞眼</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>全身癬</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>頸內淋巴腺癆</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>毛囊炎</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>眼皮粉包</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>牛皮癬</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p011-u040">7</fw>
+        <pb n="12" facs="#page-12" />
+        <fw type="running" n="p012-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p012-u002">校工身體檢查之結果</ab>
+        <ab type="heading" n="p012-u003">共二三三人</ab>
+        <table n="p012-u004">
+          <row>
+            <cell>病</cell>
+            <cell>人數</cell>
+            <cell>百分數</cell>
+          </row>
+          <row>
+            <cell>沙眼</cell>
+            <cell>33</cell>
+            <cell>14.1</cell>
+          </row>
+          <row>
+            <cell>慢性結合膜炎</cell>
+            <cell>8</cell>
+            <cell>3.4</cell>
+          </row>
+          <row>
+            <cell>赫尼亞（疝氣）</cell>
+            <cell>6</cell>
+            <cell>2.5</cell>
+          </row>
+          <row>
+            <cell>慢性支氣管炎</cell>
+            <cell>5</cell>
+            <cell>2.1</cell>
+          </row>
+          <row>
+            <cell>翼狀贅肉（眼病）</cell>
+            <cell>3</cell>
+            <cell>1.2</cell>
+          </row>
+          <row>
+            <cell>結合膜炎</cell>
+            <cell>3</cell>
+            <cell>1.2</cell>
+          </row>
+          <row>
+            <cell>包莖</cell>
+            <cell>3</cell>
+            <cell>1.2</cell>
+          </row>
+          <row>
+            <cell>瞼腺板炎</cell>
+            <cell>2</cell>
+            <cell>0.8</cell>
+          </row>
+          <row>
+            <cell>慢性胃炎</cell>
+            <cell>1</cell>
+            <cell>0.4</cell>
+          </row>
+          <row>
+            <cell>前房積膿（眼病）</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>睾丸未下</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>腸下垂</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>頭皮癬</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>急性濾泡扁桃體炎</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>胃下垂</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>甲狀腺過大</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>三角肌 胸大肌　先天缺乏</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>急性結合膜炎</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>僧帽瓣狹窄（心病）</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>急性中耳炎</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>齲齒</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>肺氣腫</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>汗斑</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+        </table>
+        <table n="p012-u028">
+          <row>
+            <cell>病</cell>
+            <cell>人數</cell>
+            <cell>百分數</cell>
+          </row>
+          <row>
+            <cell>僧帽瓣機能不全（心病）</cell>
+            <cell>1</cell>
+            <cell>0.4</cell>
+          </row>
+          <row>
+            <cell>卡拉阿薩（脾病）</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>濕疹皮膚炎</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>股靜脈擴張</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+          <row>
+            <cell>肺癆</cell>
+            <cell>1</cell>
+            <cell>„</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p012-u034">8</fw>
+        <pb n="13" facs="#page-13" />
+        <fw type="running" n="p013-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p013-u002">住院病人及住院之時日表</ab>
+        <table n="p013-u003">
+          <row>
+            <cell>月份</cell>
+            <cell>人數</cell>
+            <cell>共住天數</cell>
+          </row>
+          <row>
+            <cell>十八年九月</cell>
+            <cell>6</cell>
+            <cell>90</cell>
+          </row>
+          <row>
+            <cell>十月</cell>
+            <cell>8</cell>
+            <cell>185</cell>
+          </row>
+          <row>
+            <cell>十一月</cell>
+            <cell>15</cell>
+            <cell>211</cell>
+          </row>
+          <row>
+            <cell>十二月</cell>
+            <cell>21</cell>
+            <cell>243</cell>
+          </row>
+          <row>
+            <cell>十九年一月</cell>
+            <cell>12</cell>
+            <cell>239</cell>
+          </row>
+          <row>
+            <cell>二月</cell>
+            <cell>19</cell>
+            <cell>296</cell>
+          </row>
+          <row>
+            <cell>三月</cell>
+            <cell>17</cell>
+            <cell>365</cell>
+          </row>
+          <row>
+            <cell>四月</cell>
+            <cell>24</cell>
+            <cell>364</cell>
+          </row>
+          <row>
+            <cell>五月</cell>
+            <cell>35</cell>
+            <cell>453</cell>
+          </row>
+          <row>
+            <cell>六月</cell>
+            <cell>21</cell>
+            <cell>228</cell>
+          </row>
+        </table>
+        <fw type="folio" n="p013-u014">9</fw>
+        <pb n="14" facs="#page-14" />
+        <fw type="running" n="p014-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p014-u002">每月各科診病之次數表</ab>
+        <table n="p014-u003">
+          <row>
+            <cell>月份</cell>
+            <cell>內科</cell>
+            <cell>外科</cell>
+            <cell>眼耳鼻喉科</cell>
+          </row>
+          <row>
+            <cell>十八年八月至十月</cell>
+            <cell>845</cell>
+            <cell>1246</cell>
+            <cell>1683</cell>
+          </row>
+          <row>
+            <cell>十一月</cell>
+            <cell>391</cell>
+            <cell>460</cell>
+            <cell>779</cell>
+          </row>
+          <row>
+            <cell>十二月</cell>
+            <cell>364</cell>
+            <cell>366</cell>
+            <cell>621</cell>
+          </row>
+          <row>
+            <cell>十九年一月</cell>
+            <cell>431</cell>
+            <cell>172</cell>
+            <cell>585</cell>
+          </row>
+          <row>
+            <cell>二月</cell>
+            <cell>294</cell>
+            <cell>214</cell>
+            <cell>663</cell>
+          </row>
+          <row>
+            <cell>三月</cell>
+            <cell>505</cell>
+            <cell>372</cell>
+            <cell>1352</cell>
+          </row>
+          <row>
+            <cell>四月</cell>
+            <cell>397</cell>
+            <cell>289</cell>
+            <cell>1295</cell>
+          </row>
+          <row>
+            <cell>五月</cell>
+            <cell>579</cell>
+            <cell>512</cell>
+            <cell>1939</cell>
+          </row>
+          <row>
+            <cell>六月　至本月二十五日為止</cell>
+            <cell>475</cell>
+            <cell>480</cell>
+            <cell>2002</cell>
+          </row>
+        </table>
+        <ab type="footnote" n="p014-u013">此後<gap reason="unresolved" quantity="1" unit="character" />因<gap reason="unresolved" quantity="1" unit="character" />身體檢查後新發現之眼沙甚多</ab>
+        <ab type="heading" n="p014-u014">本學年肺癆新發現者</ab>
+        <table n="p014-u015">
+          <row>
+            <cell>十八年十二月有</cell>
+            <cell>1人</cell>
+          </row>
+          <row>
+            <cell>十九年一月有</cell>
+            <cell>3人</cell>
+          </row>
+          <row>
+            <cell>二月有</cell>
+            <cell>3人</cell>
+          </row>
+          <row>
+            <cell>三月有</cell>
+            <cell>2人</cell>
+          </row>
+          <row>
+            <cell>四月有</cell>
+            <cell>1人</cell>
+          </row>
+          <row>
+            <cell>共</cell>
+            <cell>9人</cell>
+          </row>
+        </table>
+        <ab type="footnote" n="p014-u021">此五月中係學生校工身體檢查之期</ab>
+        <fw type="folio" n="p014-u022">10</fw>
+        <pb n="15" facs="#page-15" />
+        <fw type="running" n="p015-r00">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p015-r01">病症分類每月統計表提要</ab>
+        <ab type="heading" n="p015-r02">Contents</ab>
+        <ab type="heading" n="p015-r03">Classification of diseases for months</ab>
+        <ab type="contents" n="p015-r04">I　Medical diseases</ab>
+        <ab type="contents" n="p015-r05">1　Infectious diseases</ab>
+        <ab type="contents" n="p015-r06">A　Bacterial origin</ab>
+        <ab type="contents" n="p015-r07">(1)　Miscellaneous</ab>
+        <ab type="contents" n="p015-r08">(2)　Tuberculosis</ab>
+        <ab type="contents" n="p015-r09">B　Parasite origin</ab>
+        <ab type="contents" n="p015-r10">C　Unknown origin</ab>
+        <ab type="contents" n="p015-r11">2　Neurological diseases</ab>
+        <ab type="contents" n="p015-r12">3　Gastro-intestinal diseases</ab>
+        <ab type="contents" n="p015-r13">4　Pulmonary diseases</ab>
+        <ab type="contents" n="p015-r14">5　Cardiovascular diseases</ab>
+        <ab type="contents" n="p015-r15">6　Kidney diseases</ab>
+        <ab type="contents" n="p015-r16">7　Nutrition diseases</ab>
+        <ab type="contents" n="p015-r17">8　Poisoning</ab>
+        <ab type="contents" n="p015-r18">9　Miscellaneous</ab>
+        <ab type="contents" n="p015-r19">II　Skin diseases</ab>
+        <ab type="contents" n="p015-r20">1　Infectious origin</ab>
+        <ab type="contents" n="p015-r21">2　Inflammations</ab>
+        <ab type="contents" n="p015-r22">3　Miscellaneous</ab>
+        <ab type="contents" n="p015-r23">III　Surgical diseases</ab>
+        <ab type="contents" n="p015-r24">1　Injuries</ab>
+        <ab type="contents" n="p015-r25">2　Inflammations</ab>
+        <ab type="contents" n="p015-r26">3　Diseases of anal region</ab>
+        <ab type="contents" n="p015-r27">4　Diseases of muscles and tendons</ab>
+        <ab type="contents" n="p015-r28">5　Tumor and cyst</ab>
+        <ab type="contents" n="p015-r29">6　Dental diseases</ab>
+        <ab type="contents" n="p015-r30">7　Genito-urinary diseases</ab>
+        <ab type="contents" n="p015-r31">8　Operations</ab>
+        <ab type="contents" n="p015-r32">9　Miscellaneous</ab>
+        <ab type="contents" n="p015-r33">IV　Diseases of ear, nose and throat</ab>
+        <ab type="contents" n="p015-r34">V　Diseases of eyes</ab>
+        <ab type="contents" n="p015-r35">VI　Gynecological and obstetrical diseases</ab>
+        <ab type="contents" n="p015-r36">—11—</ab>
+        <fw type="folio" n="p015-folio">11</fw>
+        <pb n="16" facs="#page-16" />
+        <fw type="running" n="p016-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p016-l02">Classification of diseases　病症分類統計</ab>
+        <ab type="heading" n="p016-l03">I Medical diseases　內科病</ab>
+        <ab type="heading" n="p016-l04">1 Infectious diseases　傳染病</ab>
+        <ab type="heading" n="p016-l05">A Bacterial origin　細菌主因</ab>
+        <ab type="heading" n="p016-l06">(1) Miscellaneous　雜類</ab>
+        <table n="p016-l08">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Acute upper respiratory infection</cell>
+            <cell>呼吸系上部傳染病</cell>
+            <cell>35</cell>
+            <cell>8</cell>
+            <cell>19</cell>
+            <cell>13</cell>
+            <cell>4</cell>
+            <cell>11</cell>
+            <cell>8</cell>
+            <cell>15</cell>
+            <cell>16</cell>
+          </row>
+          <row>
+            <cell>Influenza</cell>
+            <cell>流行性感冒</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>10</cell>
+            <cell>17</cell>
+          </row>
+          <row>
+            <cell>Acute rhinitis</cell>
+            <cell>急性鼻炎</cell>
+            <cell>23</cell>
+            <cell>18</cell>
+            <cell>23</cell>
+            <cell>15</cell>
+            <cell>2</cell>
+            <cell>23</cell>
+            <cell>9</cell>
+            <cell>17</cell>
+            <cell>11</cell>
+          </row>
+          <row>
+            <cell>Acute follicular tonsillitis</cell>
+            <cell>急性濾泡類扁桃體炎</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+            <cell>7</cell>
+            <cell>1</cell>
+            <cell>5</cell>
+            <cell>6</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Acute pharyngitis</cell>
+            <cell>急性咽炎</cell>
+            <cell>43</cell>
+            <cell>30</cell>
+            <cell>28</cell>
+            <cell>23</cell>
+            <cell>6</cell>
+            <cell>30</cell>
+            <cell>23</cell>
+            <cell>19</cell>
+            <cell>11</cell>
+          </row>
+          <row>
+            <cell>Chronic pharyngitis</cell>
+            <cell>慢性咽炎</cell>
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>5</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>Acute laryngitis</cell>
+            <cell>急性喉炎</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>6</cell>
+            <cell>6</cell>
+            <cell>3</cell>
+            <cell>5</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>Acute tracheitis</cell>
+            <cell>急性氣管炎</cell>
+            <cell>15</cell>
+            <cell>7</cell>
+            <cell>13</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+            <cell>11</cell>
+            <cell>4</cell>
+            <cell>7</cell>
+            <cell>5</cell>
+          </row>
+          <row>
+            <cell>Acute bronchitis</cell>
+            <cell>急性支氣管炎</cell>
+            <cell>8</cell>
+            <cell />
+            <cell>7</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Chronic bronchitis</cell>
+            <cell>慢性支氣管炎</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>7</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>8</cell>
+          </row>
+          <row>
+            <cell>Lobar pneumonia</cell>
+            <cell>大葉肺炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic bacillary dysentery</cell>
+            <cell>慢性桿菌痢疾</cell>
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Undifferentiated dysentery</cell>
+            <cell>未分類痢疾</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute bacillary dysentery</cell>
+            <cell>急性桿菌痢疾</cell>
+            <cell>15</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="contents" n="p016-l22">—12—</ab>
+        <fw type="folio" n="p016-folio">12</fw>
+        <pb n="17" facs="#page-17" />
+        <fw type="running" n="p017-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p017-l02">(1) Miscellaneous　續前雜類</ab>
+        <table n="p017-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Typhoid fever.</cell>
+            <cell>傷寒</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Meningococcus meningitis</cell>
+            <cell>腦膜炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Scarlet fever</cell>
+            <cell>紅熱症</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Diptheria</cell>
+            <cell>白喉症</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>150</cell>
+            <cell>76</cell>
+            <cell>114</cell>
+            <cell>66</cell>
+            <cell>31</cell>
+            <cell>89</cell>
+            <cell>50</cell>
+            <cell>85</cell>
+            <cell>83</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p017-l09">(2) Tuberculosis　癆病</ab>
+        <table n="p017-l10">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Chronic fibrinous pleurisy</cell>
+            <cell>慢性纖維狀蛋白性胸膜炎</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Serofibrinous pleurisy</cell>
+            <cell>漿液纖維狀蛋白性胸膜炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Pulmonary tuberculosis</cell>
+            <cell>肺癆</cell>
+            <cell>17</cell>
+            <cell>3</cell>
+            <cell>3</cell>
+            <cell>5</cell>
+            <cell>2</cell>
+            <cell>6</cell>
+            <cell>3</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Tuberculosis of lymph nodes</cell>
+            <cell>淋巴腺癆病</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>3</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Tuberculosis of peritonium</cell>
+            <cell>腹膜癆病</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Tuberculosis of hip joint</cell>
+            <cell>髖關節癆病</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hemoptysis</cell>
+            <cell>咯血</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>22</cell>
+            <cell>6</cell>
+            <cell>5</cell>
+            <cell>9</cell>
+            <cell>5</cell>
+            <cell>13</cell>
+            <cell>6</cell>
+            <cell>8</cell>
+            <cell>3</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p017-l18">B. Parasite origin　寄生性病</ab>
+        <table n="p017-l19">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Chancre of syphilis</cell>
+            <cell>梅毒下疳</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p017-l20">—13—</ab>
+        <fw type="folio" n="p017-folio">13</fw>
+        <pb n="18" facs="#page-18" />
+        <fw type="running" n="p018-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p018-l02">B. Parasite origin　續前寄生性病</ab>
+        <table n="p018-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Syphilis</cell>
+            <cell>梅毒</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Kalaazar</cell>
+            <cell>卡拉阿薩</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Subtertian malaria</cell>
+            <cell>日發瘧</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Tertian malaria</cell>
+            <cell>間日瘧</cell>
+            <cell>23</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Ascariasis</cell>
+            <cell>蛔虫病</cell>
+            <cell>7</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>3</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Trichuriasis</cell>
+            <cell>鞭虫病</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Taeniasis</cell>
+            <cell>條虫病</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>33</cell>
+            <cell>6</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+            <cell>7</cell>
+            <cell>3</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p018-l12">C. Unknown origin　主因未知者</ab>
+        <table n="p018-l13">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Measlse</cell>
+            <cell>麻疹</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>19</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Smallpox</cell>
+            <cell>天花</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>19</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p018-l16">2 Neurological diseases　腦系神經病</ab>
+        <table n="p018-l17">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Hysteria</cell>
+            <cell>希司忒利阿</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Idiopathic epilepsy</cell>
+            <cell>特發性羊癇病</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Insomania</cell>
+            <cell>失眠</cell>
+            <cell>13</cell>
+            <cell>7</cell>
+            <cell>6</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+          </row>
+        </table>
+        <ab type="contents" n="p018-l20">—14—</ab>
+        <fw type="folio" n="p018-folio">14</fw>
+        <pb n="19" facs="#page-19" />
+        <fw type="running" n="p019-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p019-l02">2 Neuralogical diseases　腦系神經病（續前）</ab>
+        <table n="p019-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Neuralgia of brachial plexus</cell>
+            <cell>臂叢神經痛</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Paralysis of N. facialis</cell>
+            <cell>面神經癱瘓</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Neurathenia</cell>
+            <cell>神經衰弱</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell>9</cell>
+            <cell>7</cell>
+          </row>
+          <row>
+            <cell>Neurosis of stomach</cell>
+            <cell>胃的神經官能病</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Neurosis of nose</cell>
+            <cell>鼻的神經官能病</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Anxiety neurosis</cell>
+            <cell>焦慮神經官能病</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>17</cell>
+            <cell>9</cell>
+            <cell>7</cell>
+            <cell>4</cell>
+            <cell>6</cell>
+            <cell>7</cell>
+            <cell>8</cell>
+            <cell>20</cell>
+            <cell>11</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p019-l11">3 Gastro-intestinal diseases　胃腸病</ab>
+        <table n="p019-l12">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Acute gastritis</cell>
+            <cell>急性胃炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic gastritis</cell>
+            <cell>慢性胃炎</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+          </row>
+          <row>
+            <cell>Gastric ulcer</cell>
+            <cell>胃瘍</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic dilatation of stomach</cell>
+            <cell>慢性胃擴張</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Atony of stomach</cell>
+            <cell>胃弛緩</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pylorospasm</cell>
+            <cell>幽門痙攣</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hyperchlrohydria</cell>
+            <cell>鹽酸過多</cell>
+            <cell>11</cell>
+            <cell>6</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Hypochlorhydria</cell>
+            <cell>鹽酸過少</cell>
+            <cell>7</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>3</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p019-l20">—15—</ab>
+        <fw type="folio" n="p019-folio">15</fw>
+        <pb n="20" facs="#page-20" />
+        <fw type="running" n="p020-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p020-l02">3 Gostro-intestinal diseasse　胃腸病（續前）</ab>
+        <table n="p020-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Catarrhal stomatitis</cell>
+            <cell>卡他性口炎</cell>
+            <cell>7</cell>
+            <cell>6</cell>
+            <cell>6</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell>6</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Aphthous stomatitis</cell>
+            <cell>鵞口瘡</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Gastroptosis</cell>
+            <cell>胃下垂</cell>
+            <cell />
+            <cell />
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic enterocolitis</cell>
+            <cell>慢性腸結腸炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute enterocolitis</cell>
+            <cell>急性腸結腸炎</cell>
+            <cell>22</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>6</cell>
+            <cell>6</cell>
+            <cell>9</cell>
+          </row>
+          <row>
+            <cell>Acute enteritis</cell>
+            <cell>急性腸炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>5</cell>
+          </row>
+          <row>
+            <cell>Chronic enteritis</cell>
+            <cell>慢性腸炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute colitis</cell>
+            <cell>急性結腸炎</cell>
+            <cell>16</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>5</cell>
+            <cell>7</cell>
+          </row>
+          <row>
+            <cell>Enteroptosis</cell>
+            <cell>腸下垂</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Consipation</cell>
+            <cell>便秘</cell>
+            <cell>39</cell>
+            <cell>34</cell>
+            <cell>20</cell>
+            <cell>21</cell>
+            <cell>10</cell>
+            <cell>21</cell>
+            <cell>16</cell>
+            <cell>20</cell>
+            <cell>19</cell>
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>105</cell>
+            <cell>62</cell>
+            <cell>45</cell>
+            <cell>38</cell>
+            <cell>15</cell>
+            <cell>37</cell>
+            <cell>34</cell>
+            <cell>48</cell>
+            <cell>49</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p020-l15">4 Pulmonary diseases　肺病</ab>
+        <table n="p020-l16">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Asthema</cell>
+            <cell>氣喘病</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Atelectasis</cell>
+            <cell>肺不張</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Bronchiectasis</cell>
+            <cell>支氣管擴張</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Senile emphysema of lung</cell>
+            <cell>年老肺腫</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p020-l20">—16—</ab>
+        <fw type="folio" n="p020-folio">16</fw>
+        <pb n="21" facs="#page-21" />
+        <fw type="running" n="p021-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p021-l02">4 Pulmonary diseases　肺病（續前）</ab>
+        <table n="p021-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Pulmonary emphysema</cell>
+            <cell>肺氣腫</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hay fever</cell>
+            <cell>草粉熱</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>5</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p021-l07">5 Cardiovascular diseases　心脈病</ab>
+        <table n="p021-l08">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Cardiac arrhythmia</cell>
+            <cell>心律不齊</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic cardiac vavular disease</cell>
+            <cell>慢性心瓣炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Mitral stenosis</cell>
+            <cell>僧帽瓣狹窄</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Mitral insufficiency</cell>
+            <cell>僧帽瓣機能不全</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hypertention</cell>
+            <cell>血壓力過高</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Splenomegaly of unknown origin</cell>
+            <cell>脾過大病</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Secondary anemia</cell>
+            <cell>繼發性貧血</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hemorrhagic purpura</cell>
+            <cell>出血性紫斑</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>5</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p021-l17">6 Kidney diseases　腎病</ab>
+        <table n="p021-l18">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Acute nephritis</cell>
+            <cell>急性腎炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic nephritis</cell>
+            <cell>慢性腎炎</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p021-l20">—17—</ab>
+        <fw type="folio" n="p021-folio">17</fw>
+        <pb n="22" facs="#page-22" />
+        <fw type="running" n="p022-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p022-l02">6 Kidney diseases　腎病（續前）</ab>
+        <table n="p022-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p022-l05">7 Nutrition diseases　營養病</ab>
+        <table n="p022-l06">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Avitaminosis A</cell>
+            <cell>甲種生活素缺乏</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Beriberi</cell>
+            <cell>腳氣</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Dystrophic nutrition</cell>
+            <cell>營養不良</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p022-l10">8 Poisoning　中毒</ab>
+        <table n="p022-l11">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Food poisoning</cell>
+            <cell>食物中毒</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Over dose of Mag. Sulph.</cell>
+            <cell>瀉鹽過量</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Mono-oxide poisoning</cell>
+            <cell>煤氣中毒</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute poisoning of lead</cell>
+            <cell>急性鉛中毒</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p022-l16">9 Miscellaneous　雜類</ab>
+        <table n="p022-l17">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Benign goitre</cell>
+            <cell>善性甲狀腺瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Headache unexplained</cell>
+            <cell>原因未明之頭痛</cell>
+            <cell />
+            <cell />
+            <cell>5</cell>
+            <cell>7</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Oxer eating</cell>
+            <cell>食物過量</cell>
+            <cell>4</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="contents" n="p022-l20">—18—</ab>
+        <fw type="folio" n="p022-folio">18</fw>
+        <pb n="23" facs="#page-23" />
+        <fw type="running" n="p023-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p023-l02">9 Miscellaneous　雜類（續前）</ab>
+        <table n="p023-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Overwork</cell>
+            <cell>過勞</cell>
+            <cell>12</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>16</cell>
+            <cell>2</cell>
+            <cell>5</cell>
+            <cell>10</cell>
+            <cell>4</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>···</cell>
+            <cell>5</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p023-l06">II Skin diseases　皮膚病</ab>
+        <ab type="heading" n="p023-l07">1 Infectious origin　傳染類</ab>
+        <table n="p023-l08">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Lupus.</cell>
+            <cell>狼瘡</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>···</cell>
+            <cell>···</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Acne</cell>
+            <cell>粉刺</cell>
+            <cell>10</cell>
+            <cell>7</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>12</cell>
+            <cell>8</cell>
+            <cell>2</cell>
+            <cell>3</cell>
+          </row>
+          <row>
+            <cell>Folliculitis</cell>
+            <cell>毛囊炎</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Furuncle</cell>
+            <cell>癤</cell>
+            <cell>5</cell>
+            <cell>2</cell>
+            <cell>6</cell>
+            <cell>6</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Furunculosis</cell>
+            <cell>多癤病</cell>
+            <cell>5</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Impetigo.</cell>
+            <cell>膿胞病</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Infection of skin</cell>
+            <cell>皮膚中傳染</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>Scabies</cell>
+            <cell>癢疥</cell>
+            <cell>5</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Tinea of abdominal wall</cell>
+            <cell>腹壁癬</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… buttock</cell>
+            <cell>臀部癬</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… face</cell>
+            <cell>面部癬</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… scalp</cell>
+            <cell>顱頂癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p023-l20">—19—</ab>
+        <fw type="folio" n="p023-folio">19</fw>
+        <pb n="24" facs="#page-24" />
+        <fw type="running" n="p024-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p024-l02">II Skin diseases　皮膚病</ab>
+        <ab type="heading" n="p024-l03">1 Infectious origin　傳染類（續前）</ab>
+        <table n="p024-l05">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Tinea of neck</cell>
+            <cell>項癬</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>3</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… upper extremity</cell>
+            <cell>臂癬</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… hand</cell>
+            <cell>手癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… finger nail</cell>
+            <cell>指甲癬</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… trunk</cell>
+            <cell>中身癬</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>…… groin</cell>
+            <cell>胯下癬</cell>
+            <cell>18</cell>
+            <cell>7</cell>
+            <cell>3</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>7</cell>
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell>2</cell>
+          </row>
+          <row>
+            <cell>…… genitalia</cell>
+            <cell>生殖器癬</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… lower extremity</cell>
+            <cell>股癬</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… foot</cell>
+            <cell>足癬（爛腳丫）</cell>
+            <cell>36</cell>
+            <cell>15</cell>
+            <cell>14</cell>
+            <cell>11</cell>
+            <cell>7</cell>
+            <cell>15</cell>
+            <cell>21</cell>
+            <cell>19</cell>
+            <cell>3</cell>
+          </row>
+          <row>
+            <cell>…… foot nail</cell>
+            <cell>趾甲癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>93</cell>
+            <cell>45</cell>
+            <cell>41</cell>
+            <cell>33</cell>
+            <cell>15</cell>
+            <cell>45</cell>
+            <cell>27</cell>
+            <cell>35</cell>
+            <cell>12</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p024-l16">2 Inflammations　發炎類</ab>
+        <table n="p024-l17">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Dermatitis eczematous</cell>
+            <cell>濕疹皮膚炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>5</cell>
+            <cell>6</cell>
+            <cell><gap reason="unresolved" quantity="1" unit="character" /></cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>…… erythimatous</cell>
+            <cell>紅疹……</cell>
+            <cell>9</cell>
+            <cell>6</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… exfoliation</cell>
+            <cell>脫屑……</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… of lips</cell>
+            <cell>口唇……</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p024-l21">—20—</ab>
+        <fw type="folio" n="p024-folio">20</fw>
+        <pb n="25" facs="#page-25" />
+        <fw type="folio" n="p025-u00">21</fw>
+        <fw type="running" n="p025-u01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p025-u02">2 Inflamminations　發炎類（續前）</ab>
+        <table n="p025-u04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Dermatitis factitia</cell>
+            <cell>人造皮膚炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… traumatic</cell>
+            <cell>創傷……</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… venenata</cell>
+            <cell>藥激……</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>9</cell>
+            <cell>10</cell>
+            <cell>6</cell>
+            <cell>6</cell>
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p025-u08">3 Miscellaneous　雜類</ab>
+        <table n="p025-u09">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Herpes</cell>
+            <cell>疱疹</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>8</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Alopecia</cell>
+            <cell>禿斑</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Bromidrosis</cell>
+            <cell>臭汗</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hyperidrosis</cell>
+            <cell>汗過多</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Leukoderma</cell>
+            <cell>白癜</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Lichen</cell>
+            <cell>苔癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Lichen ruber acminatus</cell>
+            <cell>紅尖銳苔癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Neurodermatitis</cell>
+            <cell>神經皮膚炎</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Pityriasis rosea</cell>
+            <cell>紅糠疹</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pityriasis versicolor</cell>
+            <cell>汗斑</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pruritus</cell>
+            <cell>瘙癢病</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <pb n="26" facs="#page-26" />
+        <fw type="folio" n="p026-u00">22</fw>
+        <fw type="running" n="p026-u01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p026-u02">3 Miscellaneous　雜類（續前）</ab>
+        <table n="p026-u04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Psoariasis</cell>
+            <cell>牛皮癬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Urticaria</cell>
+            <cell>風疹塊</cell>
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Comedo.</cell>
+            <cell>黑頭粉刺</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Milium</cell>
+            <cell>粟丘疹</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Clavus</cell>
+            <cell>鷄眼</cell>
+            <cell />
+            <cell />
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Papillomata</cell>
+            <cell>刺瘤</cell>
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Erythema nodosum</cell>
+            <cell>結節性紅斑</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Erythema</cell>
+            <cell>紅斑</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>13</cell>
+            <cell>13</cell>
+            <cell>12</cell>
+            <cell>7</cell>
+            <cell>7</cell>
+            <cell>3</cell>
+            <cell>4</cell>
+            <cell>6</cell>
+            <cell>3</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p026-u13">III Surgical diseases　外科病</ab>
+        <ab type="heading" n="p026-u14">1 Injuries　傷類</ab>
+        <table n="p026-u15">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Wounds (all types)</cell>
+            <cell>各種傷</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>10</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Lacerated wound</cell>
+            <cell>破裂傷</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Contusions</cell>
+            <cell>撞傷</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Contusion of nose</cell>
+            <cell>鼻撞傷</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Abrasion</cell>
+            <cell>擦破傷</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <pb n="27" facs="#page-27" />
+        <fw type="running" n="p027-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p027-l02">1 Injuries　傷類（續前）</ab>
+        <table n="p027-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Local burns</cell>
+            <cell>燙傷</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Insect bite</cell>
+            <cell>昆虫咬</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Sand fly bite</cell>
+            <cell>白林子咬</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Chilblain</cell>
+            <cell>凍傷</cell>
+            <cell>5</cell>
+            <cell>3</cell>
+            <cell>12</cell>
+            <cell>10</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Stain of M. trapezius</cell>
+            <cell>肌肉傷力</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>3</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>…… rectus</cell>
+            <cell>同上</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… pectoris major</cell>
+            <cell>同上</cell>
+            <cell>3</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>…… oblique internus</cell>
+            <cell>同上</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>…… lantissimus dorsi</cell>
+            <cell>同上</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Sprain of left ankle joint</cell>
+            <cell>踝節捩傷</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Sprains</cell>
+            <cell>捩傷</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>7</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Dislocation of jaw</cell>
+            <cell>下頜脫位</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Fracture of multiple ribs</cell>
+            <cell>肋骨折</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Fracture of clavicle</cell>
+            <cell>鎖骨折</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>16</cell>
+            <cell>18</cell>
+            <cell>37</cell>
+            <cell>19</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell>9</cell>
+            <cell>2</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p027-l19">2 Inflamminations　發炎類</ab>
+        <ab type="contents" n="p027-l20">—23—</ab>
+        <fw type="folio" n="p027-folio">23</fw>
+        <pb n="28" facs="#page-28" />
+        <fw type="running" n="p028-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p028-l02">2 Inflamminations　發炎類</ab>
+        <table n="p028-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年九月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Acute lymphangitis</cell>
+            <cell>急性淋巴管炎</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute lymphadenitis</cell>
+            <cell>急性淋巴腺炎</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic cervical lymphadenitis</cell>
+            <cell>慢性項內淋巴腺炎</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute inguinal lymphadenitis</cell>
+            <cell>急性腹股溝淋巴腺炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute mastitis</cell>
+            <cell>乳頭炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Abscess</cell>
+            <cell>膿包</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Infection of finger</cell>
+            <cell>指中傳染</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Infection of hand</cell>
+            <cell>手中傳染</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Infection of foot</cell>
+            <cell>足中傳染</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Phlebitis of saphenous vein</cell>
+            <cell>靜脈炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute appendicitis</cell>
+            <cell>急性闌尾炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic appendicitis</cell>
+            <cell>慢性闌尾炎</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute glossitis</cell>
+            <cell>急性舌炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Ulcer</cell>
+            <cell>潰瘍</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Anal fistula</cell>
+            <cell>瘻管</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>15</cell>
+            <cell>4</cell>
+            <cell>12</cell>
+            <cell>5</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>6</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p028-l20">—24—</ab>
+        <fw type="folio" n="p028-folio">24</fw>
+        <pb n="29" facs="#page-29" />
+        <fw type="running" n="p029-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p029-l02">3 Diseases of anal region　肛部病</ab>
+        <table n="p029-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Hemorrhoid</cell>
+            <cell>痔</cell>
+            <cell>11</cell>
+            <cell>6</cell>
+            <cell>3</cell>
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Complete prolapse of rectum</cell>
+            <cell>脫肛</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Fissure of annus</cell>
+            <cell>肛裂</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>12</cell>
+            <cell>7</cell>
+            <cell>8</cell>
+            <cell>7</cell>
+            <cell>2</cell>
+            <cell>5</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p029-l08">4 Diseases of muscles and tendons　肌肉與腱病</ab>
+        <table n="p029-l09">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Congenital absence of M. deltoid and pectoris major</cell>
+            <cell>先天性肌肉缺乏</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Torticollis</cell>
+            <cell>捩頸</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Teno-synovitis, fibrinous</cell>
+            <cell>纖維蛋腱滑膜炎</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic myositis of erector spinalis</cell>
+            <cell>慢性肌炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic myositis of lantissimus dorsi</cell>
+            <cell>慢性肌炎</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p029-l15">5 Tumor and cyst　瘤類</ab>
+        <table n="p029-l16">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Tumor of liver</cell>
+            <cell>肝瘤</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Sarcoma with metastases</cell>
+            <cell>毒瘤串發</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Fibroma of buttock</cell>
+            <cell>臀部纖維瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p029-l19">—25—</ab>
+        <fw type="folio" n="p029-folio">25</fw>
+        <pb n="30" facs="#page-30" />
+        <fw type="running" n="p030-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p030-l02">5 Tumor and cyst　瘤類（續前）</ab>
+        <table n="p030-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Lipoma</cell>
+            <cell>脂瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Retention cyst of tongue</cell>
+            <cell>舌下留滯瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Sebaceous cyst of face</cell>
+            <cell>皮脂瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p030-l08">6 Dental diseases　牙科病</ab>
+        <table n="p030-l09">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Alveolar abscess:</cell>
+            <cell>齒槽膿包</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pyorrhea alveolaris</cell>
+            <cell>齒槽膿漏</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Gingivitis</cell>
+            <cell>齒齦炎</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Caries of tooth</cell>
+            <cell>齲齒</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Tooth, pulpless</cell>
+            <cell>齒無髓</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Impacted tooth</cell>
+            <cell>齒密迫</cell>
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Unerupted tooth, wisdom molar</cell>
+            <cell>智齒未出</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>4</cell>
+            <cell>6</cell>
+            <cell>5</cell>
+            <cell>6</cell>
+            <cell>2</cell>
+            <cell>6</cell>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p030-l17">7 Genito-urinary diseases　生殖泌尿部</ab>
+        <table n="p030-l18">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Undescended testicle</cell>
+            <cell>睾丸未下</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Inguinal hernia</cell>
+            <cell>腹股溝赫尼亞</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>6</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p030-l20">—26—</ab>
+        <fw type="folio" n="p030-folio">26</fw>
+        <pb n="31" facs="#page-31" />
+        <fw type="running" n="p031-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p031-l02">7 Genito-urinary diseasis　生殖泌尿部（續前）</ab>
+        <table n="p031-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Phimosis</cell>
+            <cell>包莖</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>5</cell>
+            <cell>4</cell>
+            <cell>14</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Balanoposthitis</cell>
+            <cell>莖頭包皮炎</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Spermatorrhea</cell>
+            <cell>溢精</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>3</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute orchitis</cell>
+            <cell>急性睾丸炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Congestion of verumontanum</cell>
+            <cell>尿道<gap reason="unresolved" quantity="1" unit="character" />充血</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Gonorrheal urethritis</cell>
+            <cell>淋菌尿道炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>9</cell>
+            <cell>13</cell>
+            <cell>5</cell>
+            <cell>17</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p031-l11">8 Operations　割症</ab>
+        <table n="p031-l12">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Incision and drainage of abscess</cell>
+            <cell>割破膿包</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Circumcission</cell>
+            <cell>環截術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Expression of trachoma</cell>
+            <cell>沙眼逼出術</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Removal of fibroma from buttock</cell>
+            <cell>割纖維瘤</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Extraction of tooth</cell>
+            <cell>拔牙</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>4</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p031-l18">9 Miscellaneous　雜類</ab>
+        <table n="p031-l19">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Emphysema of chest wall</cell>
+            <cell>胸壁氣腫</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p031-l20">—27—</ab>
+        <fw type="folio" n="p031-folio">27</fw>
+        <pb n="32" facs="#page-32" />
+        <fw type="running" n="p032-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p032-l02">9 Miscellaneous</ab>
+        <table n="p032-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Varicose veins of leg</cell>
+            <cell>腿靜脈擴張</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="heading" n="p032-l06">IV Diseases of ear,nose and throat　鼻耳喉病</ab>
+        <table n="p032-l07">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Angina,Vincent's</cell>
+            <cell>咽峽炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Deviated nasal septum</cell>
+            <cell>鼻中隔不正</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic tonsillitis</cell>
+            <cell>慢性扁桃體炎</cell>
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Hypertrophy of tonsils</cell>
+            <cell>扁桃體過大</cell>
+            <cell>5</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Chronic maxillary sinusitis</cell>
+            <cell>上頜骨竇炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Hypertrophic rhinitis</cell>
+            <cell>過長性鼻炎</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell>3</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Atrophic rhinitis</cell>
+            <cell>萎縮性鼻炎</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Epistaxis</cell>
+            <cell>鼻衄</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Hemorrhage from throat</cell>
+            <cell>喉流血</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Polyps of nasal septum</cell>
+            <cell>鼻隔息肉</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Polyps of ear</cell>
+            <cell>耳內息肉</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Chronic otitis media</cell>
+            <cell>慢性中耳炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute otitis media</cell>
+            <cell>急性中耳炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p032-l20">—28—</ab>
+        <fw type="folio" n="p032-folio">28</fw>
+        <pb n="33" facs="#page-33" />
+        <fw type="running" n="p033-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p033-l02">IV Diseases of ear, nose and throat　耳鼻喉病（續前）</ab>
+        <table n="p033-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Chronic myringitis</cell>
+            <cell>慢性耳鼓炎</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>9</cell>
+            <cell>8</cell>
+            <cell>6</cell>
+            <cell>9</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+            <cell>4</cell>
+            <cell>4</cell>
+            <cell>3</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p033-l06">V Diseases of eyes　眼病</ab>
+        <table n="p033-l07">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Blepharitis</cell>
+            <cell>瞼緣炎</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Blindness,right</cell>
+            <cell>眼瞎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Acute conjunctivitis</cell>
+            <cell>急性結合膜炎</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Chronic conjunctivitig</cell>
+            <cell>慢性結合膜炎</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>15</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Follicular conjunctivitig</cell>
+            <cell>濾泡結合膜炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>4</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Phlytenular conjunctivitis</cell>
+            <cell>泡性結合膜炎</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Hordeolum</cell>
+            <cell>瞼腺炎</cell>
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Hyperopia</cell>
+            <cell>遠視</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Leukoma adherens</cell>
+            <cell>角膜暗白</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Artificial mydriasis</cell>
+            <cell>人工放瞳</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Myopia</cell>
+            <cell>近視</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>5</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>3</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pterygium</cell>
+            <cell>翼狀贅肉</cell>
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Strain of eye muscles</cell>
+            <cell>眼肌傷力</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>2</cell>
+            <cell>1</cell>
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p033-l20">—29—</ab>
+        <fw type="folio" n="p033-folio">29</fw>
+        <pb n="34" facs="#page-34" />
+        <fw type="running" n="p034-l01">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p034-l02">V Diseases of eyes　眼病</ab>
+        <table n="p034-l04">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Trachoma</cell>
+            <cell>沙眼</cell>
+            <cell>12</cell>
+            <cell />
+            <cell>11</cell>
+            <cell>33</cell>
+            <cell>31</cell>
+            <cell>26</cell>
+            <cell>11</cell>
+            <cell>7</cell>
+            <cell>1</cell>
+          </row>
+          <row>
+            <cell>Ulcer of cornea</cell>
+            <cell>角膜潰瘍</cell>
+            <cell />
+            <cell>3</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>17</cell>
+            <cell>7</cell>
+            <cell>21</cell>
+            <cell>57</cell>
+            <cell>37</cell>
+            <cell>30</cell>
+            <cell>13</cell>
+            <cell>11</cell>
+            <cell>1</cell>
+          </row>
+        </table>
+        <ab type="heading" n="p034-l07">VI Gtnecological and obstetrical diseases　婦產科病</ab>
+        <table n="p034-l08">
+          <row role="label">
+            <cell />
+            <cell />
+            <cell>十八年八月至十月</cell>
+            <cell>十一月</cell>
+            <cell>十二月</cell>
+            <cell>十九年一月</cell>
+            <cell>二月</cell>
+            <cell>三月</cell>
+            <cell>四月</cell>
+            <cell>五月</cell>
+            <cell>六月</cell>
+          </row>
+          <row>
+            <cell>Puerperium</cell>
+            <cell>生產</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>4</cell>
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Pregnancy</cell>
+            <cell>孕</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Miscarriage</cell>
+            <cell>小產</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Irregular menstruation</cell>
+            <cell>月經不調</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Menorrhagia</cell>
+            <cell>經流過勇</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+            <cell>1</cell>
+            <cell />
+            <cell />
+            <cell />
+            <cell />
+          </row>
+          <row>
+            <cell>Total</cell>
+            <cell />
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>1</cell>
+            <cell />
+            <cell />
+          </row>
+        </table>
+        <ab type="contents" n="p034-l14">—30—</ab>
+        <fw type="folio" n="p034-folio">30</fw>
+        <pb n="35" facs="#page-35" />
+        <fw type="running" n="p035-u001">清華大學校醫院第一次報告書</fw>
+        <ab type="heading" n="p035-u002">本年醫院出版品</ab>
+        <table n="p035-u003">
+          <row>
+            <cell>招凉</cell>
+            <cell>清華週刊</cell>
+            <cell>三十三卷</cell>
+            <cell>六期</cell>
+          </row>
+          <row>
+            <cell>營養問題</cell>
+            <cell />
+            <cell>同上</cell>
+            <cell>七期</cell>
+          </row>
+          <row>
+            <cell>本校衞生事務之商榷</cell>
+            <cell>清華週刊副刊</cell>
+            <cell>三十二卷</cell>
+            <cell>一期</cell>
+          </row>
+          <row>
+            <cell>本學期衞生工作之初步</cell>
+            <cell />
+            <cell>同上</cell>
+            <cell>九期</cell>
+          </row>
+          <row>
+            <cell>育嬰須知</cell>
+            <cell />
+            <cell>醫院印贈單行本</cell>
+            <cell />
+          </row>
+        </table>
+        <fw type="folio" n="p035-u008">31</fw>
+        <pb n="36" facs="#page-36" />
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "國立清華大學醫院報告書 (第一次) | First Report of the Hospital of National Tsing Hua University"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "醫學史"
+  - "清華大學"
+  - "校醫院"
+  - "醫院統計"
+  - "學生健康史"
+  - "北平"
+  - "medical history"
+  - "Tsing Hua University"
+  - "hospital statistics"
+  - "student health history"
+  - "historical bilingual tables"
+identifiers:
+  - type: url
+    value: "https://commons.wikimedia.org/w/index.php?curid=131032437"
