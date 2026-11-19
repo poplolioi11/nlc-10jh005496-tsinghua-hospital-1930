@@ -1,6 +1,6 @@
 {
   "key": "tsinghua",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "國立清華大學醫院報告書 (第一次)",
   "title_en": "First Report of the Hospital of National Tsing Hua University",
   "author": "國立清華大學醫院",
@@ -284,7 +284,7 @@
         {
           "id": "p005-u007",
           "kind": "body",
-          "text": "村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限",
+          "text": "村庄，十數小學，皆無施醫之處；故本校治療上之工作，不僅限",
           "order": 6
         },
         {
@@ -392,7 +392,7 @@
         {
           "id": "p005-u025",
           "kind": "body",
-          "text": "於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知",
+          "text": "於名下記之。每星期查冊一次，逾一星期未來治者，則用函使知",
           "order": 24
         },
         {
@@ -502,7 +502,7 @@
         {
           "id": "p006-u013",
           "kind": "body",
-          "text": "分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中",
+          "text": "分之三。在十八年十二月開始學生與校工身體檢查，連接五月中",
           "order": 12
         },
         {
@@ -1574,7 +1574,7 @@
               "百分數"
             ],
             [
-              "睾丸未下",
+              "睪丸未下",
               "1",
               "0.3"
             ],
@@ -1733,7 +1733,7 @@
               "„"
             ],
             [
-              "睾丸未下",
+              "睪丸未下",
               "1",
               "„"
             ],
@@ -2215,7 +2215,7 @@
         {
           "id": "p015-r11",
           "kind": "contents",
-          "text": "2　Neurological diseases",
+          "text": "2　Neuralogical diseases",
           "order": 11
         },
         {
@@ -2329,7 +2329,7 @@
         {
           "id": "p015-r30",
           "kind": "contents",
-          "text": "7　Genito-urinary diseases",
+          "text": "7　Genitc-urinary diseases",
           "order": 30
         },
         {
@@ -2592,7 +2592,7 @@
               null
             ],
             [
-              "Chronic bacillary dysentery",
+              "Cnronic bacillary dysentery",
               "慢性桿菌痢疾",
               "2",
               "2",
@@ -2977,7 +2977,7 @@
         {
           "id": "p018-l16",
           "kind": "heading",
-          "text": "2 Neurological diseases　腦系神經病",
+          "text": "2 Neuralogical diseases　腦系神經病",
           "order": 14
         },
         {
@@ -3090,7 +3090,7 @@
             ],
             [
               "Taeniasis",
-              "條虫病",
+              "絛虫病",
               null,
               null,
               null,
@@ -3850,7 +3850,7 @@
         {
           "id": "p021-l07",
           "kind": "heading",
-          "text": "5 Cardiovascular diseases　心脈病",
+          "text": "5 Cardiovascular diseases　心臟病",
           "order": 5
         },
         {
@@ -4044,7 +4044,7 @@
             ],
             [
               "Hemorrhagic purpura",
-              "出血性紫斑",
+              "出血性紫癜",
               null,
               null,
               null,
@@ -4751,7 +4751,7 @@
         {
           "id": "p024-l16",
           "kind": "heading",
-          "text": "2 Inflammations　發炎類",
+          "text": "2 Inflamminations　發炎類",
           "order": 14
         },
         {
@@ -4972,7 +4972,7 @@
               "1"
             ],
             [
-              "…… erythimatous",
+              "…… erythmatous",
               "紅疹……",
               "9",
               "6",
@@ -5986,7 +5986,7 @@
               null
             ],
             [
-              "Infection of hand",
+              "Infecti on of hand",
               "手中傳染",
               null,
               null,
@@ -6561,7 +6561,7 @@
             ],
             [
               "Pyorrhea alveolaris",
-              "齒槽膿漏",
+              "齒槽膿毒",
               null,
               "1",
               null,
@@ -6680,7 +6680,7 @@
           "rows": [
             [
               "Undescended testicle",
-              "睾丸未下",
+              "睪丸未下",
               "1",
               null,
               null,
@@ -6812,7 +6812,7 @@
             ],
             [
               "Acute orchitis",
-              "急性睾丸炎",
+              "急性睪丸炎",
               null,
               null,
               null,
@@ -6825,7 +6825,7 @@
             ],
             [
               "Congestion of verumontanum",
-              "尿道□充血",
+              "尿道脊充血",
               null,
               null,
               "1",
@@ -6837,7 +6837,7 @@
               null
             ],
             [
-              "Gonorrheal urethritis",
+              "Conorrheal urethritis",
               "淋菌尿道炎",
               null,
               null,
@@ -7180,7 +7180,7 @@
               null
             ],
             [
-              "Hypertrophic rhinitis",
+              "Hypetrophic rhinitis",
               "過長性鼻炎",
               null,
               null,
@@ -7889,7 +7889,29 @@
     "原封、內封標「第弌次」，現行資料題名用通行字「第一次」。封底第36幅無原刊文字。",
     "影像 5 原圖下緣有館藏印章覆疊，依原圖記未定字，並保留原字與印頁。",
     "中英雙語詞與統計值依各表原印；原表空白保留空欄。英語拼法及跨頁印刷上的日期標頭差異依實際頁面保存。",
-    "第 14 幅肺癆表原印小計為 9，逐列可讀值加總為 10。其他小計跨頁或與分項不合者仍待獨立複核；未以算值覆蓋原刊。"
+    "第 14 幅肺癆表原印小計為 9，逐列可讀值加總為 10。其他小計跨頁或與分項不合者仍待獨立複核；未以算值覆蓋原刊。",
+    "影像 24 濕疹二月值仍用 □，候選 3、2；影像 33 其他墨損格留疑。影像 28 首欄依原圖錄「十八年九月至十月」。",
+    "影像 5，p005-u007 原錄「村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限」，訂為「村庄，十數小學，皆無施醫之處；故本校治療上之工作，不僅限」。",
+    "影像 5，p005-u025 原錄「於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知」，訂為「於名下記之。每星期查冊一次，逾一星期未來治者，則用函使知」。",
+    "影像 6，p006-u013 原錄「分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中」，訂為「分之三。在十八年十二月開始學生與校工身體檢查，連接五月中」。",
+    "影像 11，p011-u029 原錄「睾丸未下」，訂為「睪丸未下」。",
+    "影像 12，p012-u004 原錄「睾丸未下」，訂為「睪丸未下」。",
+    "影像 15，p015-r11 原錄「2　Neurological diseases」，訂為「2　Neuralogical diseases」。",
+    "影像 15，p015-r30 原錄「7　Genito-urinary diseases」，訂為「7　Genitc-urinary diseases」。",
+    "影像 16，p016-l08 原錄「Chronic bacillary dysentery」，訂為「Cnronic bacillary dysentery」。",
+    "影像 18，p018-l04 原錄「條虫病」，訂為「絛虫病」。",
+    "影像 21，p021-l08 原錄「出血性紫斑」，訂為「出血性紫癜」。",
+    "影像 24，p024-l17 原錄「…… erythimatous」，訂為「…… erythmatous」。",
+    "影像 28，p028-l04 原錄「Infection of hand」，訂為「Infecti on of hand」。",
+    "影像 30，p030-l09 原錄「齒槽膿漏」，訂為「齒槽膿毒」。",
+    "影像 30，p030-l18 原錄「睾丸未下」，訂為「睪丸未下」。",
+    "影像 31，p031-l04 原錄「急性睾丸炎」，訂為「急性睪丸炎」。",
+    "影像 31，p031-l04 原錄「尿道□充血」，訂為「尿道脊充血」。",
+    "影像 31，p031-l04 原錄「Gonorrheal urethritis」，訂為「Conorrheal urethritis」。",
+    "影像 32，p032-l07 原錄「Hypertrophic rhinitis」，訂為「Hypetrophic rhinitis」。",
+    "影像 18，p018-l16 原錄「2 Neurological diseases　腦系神經病」，訂為「2 Neuralogical diseases　腦系神經病」。",
+    "影像 21，p021-l07 原錄「5 Cardiovascular diseases　心脈病」，訂為「5 Cardiovascular diseases　心臟病」。",
+    "影像 24，p024-l16 原錄「2 Inflammations　發炎類」，訂為「2 Inflamminations　發炎類」。"
   ],
   "keywords": [
     "醫學史",
@@ -7903,5 +7925,93 @@
     "hospital statistics",
     "student health history",
     "historical bilingual tables"
-  ]
+  ],
+  "previous_version": "0.1.0",
+  "wiki_output_stem": "tsinghua-reviewed",
+  "unresolved_readings": [
+    {
+      "target": {
+        "frame": 4,
+        "table_id": "p004-u002",
+        "row": 3,
+        "column": 1
+      },
+      "A": "孟憲燕＊＊＊",
+      "B": "孟憲藍***",
+      "reason": "末字中下筆畫擠合，底部無法確定為 皿 或 灬。"
+    },
+    {
+      "target": {
+        "frame": 4,
+        "table_id": "p004-u002",
+        "row": 5,
+        "column": 1
+      },
+      "A": "劉殿華",
+      "B": "劉震華",
+      "reason": "中間字下半筆畫粘連，保留兩讀。"
+    },
+    {
+      "target": {
+        "frame": 5,
+        "unit_id": "p005-u014"
+      },
+      "A": "照丁",
+      "B": "臘丁",
+      "reason": "第一字左側像月，右側字形不足以區分臘及異體。前方標點亦印得較淡。"
+    },
+    {
+      "target": {
+        "frame": 5,
+        "unit_id": "p005-u027"
+      },
+      "A": "終止",
+      "B": "為止",
+      "reason": "首字與印章重疊，局部黑痕不足以確定。"
+    },
+    {
+      "target": {
+        "frame": 11,
+        "table_id": "p011-u004",
+        "row": 22,
+        "column": 0
+      },
+      "A": "□維症",
+      "B": "纖維疣",
+      "reason": "首字密集疑見糸，末字疒內部筆畫未能確區分。"
+    },
+    {
+      "target": {
+        "frame": 11,
+        "table_id": "p011-u029",
+        "row": 2,
+        "column": 0
+      },
+      "A": "□",
+      "B": "癇",
+      "reason": "單字內筆重疊，未能辨明疒內構件。"
+    },
+    {
+      "target": {
+        "frame": 14,
+        "unit_id": "p014-u013"
+      },
+      "A": "此後□因□身體檢查後新發現之眼沙甚多",
+      "B": "此後緣因於身體檢查後新發現之眼沙甚多",
+      "reason": "「後」和「因」鄰接的兩枚小字重墨，緣、於保留作候選。"
+    },
+    {
+      "image": 24,
+      "table_id": "p024-l17",
+      "row": 0,
+      "column": 6,
+      "candidates": [
+        "3",
+        "2"
+      ],
+      "status": "□",
+      "reason": "原圖末筆與墨痕未能確定，保留待辨字，3、2均可回查。"
+    }
+  ],
+  "quality_summary": "全冊兩份影像讀稿逐頁比對與回圖，訂正 21 處。中英欄名、原印數字合計、空格及疑讀保持可定位。尚待人工全文校對。"
 }

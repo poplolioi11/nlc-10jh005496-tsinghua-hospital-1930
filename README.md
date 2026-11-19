@@ -8,7 +8,7 @@ Published in July 1930, this first report records staff, student health surveys,
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 本資料為 AI 輔助初錄 0.1.0。原 image 與部件索引可供回圖；□表示待辨字。尚待人工逐字覆核。
+- 全冊兩份影像讀稿逐頁比對與回圖，訂正 21 處。中英欄名、原印數字合計、空格及疑讀保持可定位。尚待人工全文校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 

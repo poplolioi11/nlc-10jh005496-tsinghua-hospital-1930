@@ -219,7 +219,7 @@
         <ab type="body" n="p005-u004">相當之目的，此即本年統計創作之宗旨，所以為來年衞生施設之</ab>
         <ab type="body" n="p005-u005">南針。</ab>
         <ab type="body" n="p005-u006">本校地處北平西郊，與郊外大鎭海淀近，海淀四週有多數之</ab>
-        <ab type="body" n="p005-u007">村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限</ab>
+        <ab type="body" n="p005-u007">村庄，十數小學，皆無施醫之處；故本校治療上之工作，不僅限</ab>
         <ab type="body" n="p005-u008">於一千四百餘人之教職員學生校工，即臨近之海淀日有病人來診，</ab>
         <ab type="body" n="p005-u009">近隣小學校與新農學校之學生來診病者，非獨門診日必數起，兼</ab>
         <ab type="body" n="p005-u010">有留院治療者，幾與市中施醫院同，蓋不得已而然者；故校醫院</ab>
@@ -237,7 +237,7 @@
         <ab type="body" n="p005-u022">看監督，期於無碍於健康，此為管理上之建設。</ab>
         <ab type="body" n="p005-u023">沙眼病之流行，最為普通，因有護士一人專管之。學生工人</ab>
         <ab type="body" n="p005-u024">之有沙眼者，一經查出，則記名於沙眼治療冊上，凡來治者，則</ab>
-        <ab type="body" n="p005-u025">於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知</ab>
+        <ab type="body" n="p005-u025">於名下記之。每星期查冊一次，逾一星期未來治者，則用函使知</ab>
         <ab type="body" n="p005-u026">之。再函未來者，則通知教務長或庶務長，務使必來，至痊愈時</ab>
         <ab type="body" n="p005-u027">終止。本年每日來治者頗為擁擠，事先鉛印之通告函尚未用畢，</ab>
         <ab type="body" n="p005-u028">而學生與工人皆知此治療之重要，故教務處與庶務處之通知函少</ab>
@@ -255,7 +255,7 @@
         <ab type="body" n="p006-u010">本校慢性傳染流行症，有沙眼，居百分之十九點五，見學生</ab>
         <ab type="body" n="p006-u011">身體檢查之結果一表。有爛腳丫，居百分之三十三，見爛腳丫之</ab>
         <ab type="body" n="p006-u012">調查。有肺癆，教職員校工除外，學生中有肺癆者十五人，居百</ab>
-        <ab type="body" n="p006-u013">分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中</ab>
+        <ab type="body" n="p006-u013">分之三。在十八年十二月開始學生與校工身體檢查，連接五月中</ab>
         <ab type="body" n="p006-u014">共發現有肺癆者九人，見本學年肺癆新發現者一表。</ab>
         <ab type="body" n="p006-u015">急性傳染流行症有招凉，在十九年一月為最。有麻疹，共二</ab>
         <ab type="body" n="p006-u016">十一人，在五月最盛。痢疾為本校附近常有之症，輕性痢疾約共</ab>
@@ -676,7 +676,7 @@
             <cell>百分數</cell>
           </row>
           <row>
-            <cell>睾丸未下</cell>
+            <cell>睪丸未下</cell>
             <cell>1</cell>
             <cell>0.3</cell>
           </row>
@@ -788,7 +788,7 @@
             <cell>„</cell>
           </row>
           <row>
-            <cell>睾丸未下</cell>
+            <cell>睪丸未下</cell>
             <cell>1</cell>
             <cell>„</cell>
           </row>
@@ -1054,7 +1054,7 @@
         <ab type="contents" n="p015-r08">(2)　Tuberculosis</ab>
         <ab type="contents" n="p015-r09">B　Parasite origin</ab>
         <ab type="contents" n="p015-r10">C　Unknown origin</ab>
-        <ab type="contents" n="p015-r11">2　Neurological diseases</ab>
+        <ab type="contents" n="p015-r11">2　Neuralogical diseases</ab>
         <ab type="contents" n="p015-r12">3　Gastro-intestinal diseases</ab>
         <ab type="contents" n="p015-r13">4　Pulmonary diseases</ab>
         <ab type="contents" n="p015-r14">5　Cardiovascular diseases</ab>
@@ -1073,7 +1073,7 @@
         <ab type="contents" n="p015-r27">4　Diseases of muscles and tendons</ab>
         <ab type="contents" n="p015-r28">5　Tumor and cyst</ab>
         <ab type="contents" n="p015-r29">6　Dental diseases</ab>
-        <ab type="contents" n="p015-r30">7　Genito-urinary diseases</ab>
+        <ab type="contents" n="p015-r30">7　Genitc-urinary diseases</ab>
         <ab type="contents" n="p015-r31">8　Operations</ab>
         <ab type="contents" n="p015-r32">9　Miscellaneous</ab>
         <ab type="contents" n="p015-r33">IV　Diseases of ear, nose and throat</ab>
@@ -1246,7 +1246,7 @@
             <cell />
           </row>
           <row>
-            <cell>Chronic bacillary dysentery</cell>
+            <cell>Cnronic bacillary dysentery</cell>
             <cell>慢性桿菌痢疾</cell>
             <cell>2</cell>
             <cell>2</cell>
@@ -1618,7 +1618,7 @@
           </row>
           <row>
             <cell>Taeniasis</cell>
-            <cell>條虫病</cell>
+            <cell>絛虫病</cell>
             <cell />
             <cell />
             <cell />
@@ -1698,7 +1698,7 @@
             <cell />
           </row>
         </table>
-        <ab type="heading" n="p018-l16">2 Neurological diseases　腦系神經病</ab>
+        <ab type="heading" n="p018-l16">2 Neuralogical diseases　腦系神經病</ab>
         <table n="p018-l17">
           <row role="label">
             <cell />
@@ -2274,7 +2274,7 @@
             <cell />
           </row>
         </table>
-        <ab type="heading" n="p021-l07">5 Cardiovascular diseases　心脈病</ab>
+        <ab type="heading" n="p021-l07">5 Cardiovascular diseases　心臟病</ab>
         <table n="p021-l08">
           <row role="label">
             <cell />
@@ -2382,7 +2382,7 @@
           </row>
           <row>
             <cell>Hemorrhagic purpura</cell>
-            <cell>出血性紫斑</cell>
+            <cell>出血性紫癜</cell>
             <cell />
             <cell />
             <cell />
@@ -3069,7 +3069,7 @@
             <cell>12</cell>
           </row>
         </table>
-        <ab type="heading" n="p024-l16">2 Inflammations　發炎類</ab>
+        <ab type="heading" n="p024-l16">2 Inflamminations　發炎類</ab>
         <table n="p024-l17">
           <row role="label">
             <cell />
@@ -3098,7 +3098,7 @@
             <cell>1</cell>
           </row>
           <row>
-            <cell>…… erythimatous</cell>
+            <cell>…… erythmatous</cell>
             <cell>紅疹……</cell>
             <cell>9</cell>
             <cell>6</cell>
@@ -3912,7 +3912,7 @@
             <cell />
           </row>
           <row>
-            <cell>Infection of hand</cell>
+            <cell>Infecti on of hand</cell>
             <cell>手中傳染</cell>
             <cell />
             <cell />
@@ -4352,7 +4352,7 @@
           </row>
           <row>
             <cell>Pyorrhea alveolaris</cell>
-            <cell>齒槽膿漏</cell>
+            <cell>齒槽膿毒</cell>
             <cell />
             <cell>1</cell>
             <cell />
@@ -4459,7 +4459,7 @@
           </row>
           <row>
             <cell>Undescended testicle</cell>
-            <cell>睾丸未下</cell>
+            <cell>睪丸未下</cell>
             <cell>1</cell>
             <cell />
             <cell />
@@ -4544,7 +4544,7 @@
           </row>
           <row>
             <cell>Acute orchitis</cell>
-            <cell>急性睾丸炎</cell>
+            <cell>急性睪丸炎</cell>
             <cell />
             <cell />
             <cell />
@@ -4557,7 +4557,7 @@
           </row>
           <row>
             <cell>Congestion of verumontanum</cell>
-            <cell>尿道<gap reason="unresolved" quantity="1" unit="character" />充血</cell>
+            <cell>尿道脊充血</cell>
             <cell />
             <cell />
             <cell>1</cell>
@@ -4569,7 +4569,7 @@
             <cell />
           </row>
           <row>
-            <cell>Gonorrheal urethritis</cell>
+            <cell>Conorrheal urethritis</cell>
             <cell>淋菌尿道炎</cell>
             <cell />
             <cell />
@@ -4845,7 +4845,7 @@
             <cell />
           </row>
           <row>
-            <cell>Hypertrophic rhinitis</cell>
+            <cell>Hypetrophic rhinitis</cell>
             <cell>過長性鼻炎</cell>
             <cell />
             <cell />

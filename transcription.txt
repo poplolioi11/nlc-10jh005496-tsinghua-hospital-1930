@@ -44,7 +44,7 @@ i
 相當之目的，此即本年統計創作之宗旨，所以為來年衞生施設之
 南針。
 本校地處北平西郊，與郊外大鎭海淀近，海淀四週有多數之
-村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限
+村庄，十數小學，皆無施醫之處；故本校治療上之工作，不僅限
 於一千四百餘人之教職員學生校工，即臨近之海淀日有病人來診，
 近隣小學校與新農學校之學生來診病者，非獨門診日必數起，兼
 有留院治療者，幾與市中施醫院同，蓋不得已而然者；故校醫院
@@ -62,7 +62,7 @@ i
 看監督，期於無碍於健康，此為管理上之建設。
 沙眼病之流行，最為普通，因有護士一人專管之。學生工人
 之有沙眼者，一經查出，則記名於沙眼治療冊上，凡來治者，則
-於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知
+於名下記之。每星期查冊一次，逾一星期未來治者，則用函使知
 之。再函未來者，則通知教務長或庶務長，務使必來，至痊愈時
 終止。本年每日來治者頗為擁擠，事先鉛印之通告函尚未用畢，
 而學生與工人皆知此治療之重要，故教務處與庶務處之通知函少
@@ -81,7 +81,7 @@ i
 本校慢性傳染流行症，有沙眼，居百分之十九點五，見學生
 身體檢查之結果一表。有爛腳丫，居百分之三十三，見爛腳丫之
 調查。有肺癆，教職員校工除外，學生中有肺癆者十五人，居百
-分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中
+分之三。在十八年十二月開始學生與校工身體檢查，連接五月中
 共發現有肺癆者九人，見本學年肺癆新發現者一表。
 急性傳染流行症有招凉，在十九年一月為最。有麻疹，共二
 十一人，在五月最盛。痢疾為本校附近常有之症，輕性痢疾約共
@@ -249,7 +249,7 @@ i
 面癬	1	0.3
 腳癬	1	„
 病	人數	百分數
-睾丸未下	1	0.3
+睪丸未下	1	0.3
 □	1	„
 心律不齊	1	„
 赫尼亞（疝氣）	1	„
@@ -276,7 +276,7 @@ i
 瞼腺板炎	2	0.8
 慢性胃炎	1	0.4
 前房積膿（眼病）	1	„
-睾丸未下	1	„
+睪丸未下	1	„
 腸下垂	1	„
 頭皮癬	1	„
 急性濾泡扁桃體炎	1	„
@@ -349,7 +349,7 @@ A　Bacterial origin
 (2)　Tuberculosis
 B　Parasite origin
 C　Unknown origin
-2　Neurological diseases
+2　Neuralogical diseases
 3　Gastro-intestinal diseases
 4　Pulmonary diseases
 5　Cardiovascular diseases
@@ -368,7 +368,7 @@ III　Surgical diseases
 4　Diseases of muscles and tendons
 5　Tumor and cyst
 6　Dental diseases
-7　Genito-urinary diseases
+7　Genitc-urinary diseases
 8　Operations
 9　Miscellaneous
 IV　Diseases of ear, nose and throat
@@ -396,7 +396,7 @@ Acute tracheitis	急性氣管炎	15	7	13	4	5	11	4	7	5
 Acute bronchitis	急性支氣管炎	8		7	2	4	1	1	1	2
 Chronic bronchitis	慢性支氣管炎	1	1	7		2			1	8
 Lobar pneumonia	大葉肺炎								1	
-Chronic bacillary dysentery	慢性桿菌痢疾	2	2				1		1	1
+Cnronic bacillary dysentery	慢性桿菌痢疾	2	2				1		1	1
 Undifferentiated dysentery	未分類痢疾					2	1	1		
 Acute bacillary dysentery	急性桿菌痢疾	15	2							1
 —12—
@@ -437,14 +437,14 @@ Subtertian malaria	日發瘧	2	1				1			1
 Tertian malaria	間日瘧	23	2	1				1	1	
 Ascariasis	蛔虫病	7	2			4	3	3	4	2
 Trichuriasis	鞭虫病					1				
-Taeniasis	條虫病							1		
+Taeniasis	絛虫病							1		
 Total		33	6	1	2	5	4	5	7	3
 C. Unknown origin　主因未知者
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
 Measlse	麻疹							2	19	
 Smallpox	天花						1			
 Total							1	2	19	
-2 Neurological diseases　腦系神經病
+2 Neuralogical diseases　腦系神經病
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
 Hysteria	希司忒利阿		1							
 Idiopathic epilepsy	特發性羊癇病								1	
@@ -507,7 +507,7 @@ Senile emphysema of lung	年老肺腫				1
 Pulmonary emphysema	肺氣腫	1			1					
 Hay fever	草粉熱	1								
 Total		5			2		1	1		
-5 Cardiovascular diseases　心脈病
+5 Cardiovascular diseases　心臟病
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
 Cardiac arrhythmia	心律不齊								1	
 Chronic cardiac vavular disease	慢性心瓣炎					1				
@@ -516,7 +516,7 @@ Mitral insufficiency	僧帽瓣機能不全			1
 Hypertention	血壓力過高			1				1		
 Splenomegaly of unknown origin	脾過大病	1								
 Secondary anemia	繼發性貧血	4	1				1			
-Hemorrhagic purpura	出血性紫斑					1				
+Hemorrhagic purpura	出血性紫癜					1				
 Total		5	1	3		2	1	1	1	
 6 Kidney diseases　腎病
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
@@ -591,10 +591,10 @@ Tinea of neck	項癬	4	2	1	2		2		3
 …… foot	足癬（爛腳丫）	36	15	14	11	7	15	21	19	3
 …… foot nail	趾甲癬						1		1	
 Total		93	45	41	33	15	45	27	35	12
-2 Inflammations　發炎類
+2 Inflamminations　發炎類
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
 Dermatitis eczematous	濕疹皮膚炎		1	5	6	□	1		1	1
-…… erythimatous	紅疹……	9	6				1	1		
+…… erythmatous	紅疹……	9	6				1	1		
 …… exfoliation	脫屑……		1	1					1	
 …… of lips	口唇……							1		
 —20—
@@ -680,7 +680,7 @@ Acute inguinal lymphadenitis	急性腹股溝淋巴腺炎				2
 Acute mastitis	乳頭炎					2				
 Abscess	膿包	3		3	1	1		2		
 Infection of finger	指中傳染	1		3						
-Infection of hand	手中傳染						2			
+Infecti on of hand	手中傳染						2			
 Infection of foot	足中傳染	2		2	1					
 Phlebitis of saphenous vein	靜脈炎		1							
 Acute appendicitis	急性闌尾炎					2		1		
@@ -727,7 +727,7 @@ Total		1		1	1		2	1	1
 6 Dental diseases　牙科病
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
 Alveolar abscess:	齒槽膿包		1					1		
-Pyorrhea alveolaris	齒槽膿漏		1				1			
+Pyorrhea alveolaris	齒槽膿毒		1				1			
 Gingivitis	齒齦炎	1		2	1					
 Caries of tooth	齲齒	2	1	1	2	1	4	3	1	
 Tooth, pulpless	齒無髓		1				1		1	
@@ -736,7 +736,7 @@ Unerupted tooth, wisdom molar	智齒未出	1	2		1	1
 Total		4	6	5	6	2	6	4	2	
 7 Genito-urinary diseases　生殖泌尿部
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
-Undescended testicle	睾丸未下	1								
+Undescended testicle	睪丸未下	1								
 Inguinal hernia	腹股溝赫尼亞			1	6				1	
 —26—
 26
@@ -748,9 +748,9 @@ Inguinal hernia	腹股溝赫尼亞			1	6				1
 Phimosis	包莖	2		2	5	4	14			
 Balanoposthitis	莖頭包皮炎	1		2	1		1			
 Spermatorrhea	溢精		2	3		1	1	1		
-Acute orchitis	急性睾丸炎						1			
-Congestion of verumontanum	尿道□充血			1	1					
-Gonorrheal urethritis	淋菌尿道炎									1
+Acute orchitis	急性睪丸炎						1			
+Congestion of verumontanum	尿道脊充血			1	1					
+Conorrheal urethritis	淋菌尿道炎									1
 Total		4	2	9	13	5	17	1	1	1
 8 Operations　割症
 		十八年八月至十月	十一月	十二月	十九年一月	二月	三月	四月	五月	六月
@@ -779,7 +779,7 @@ Deviated nasal septum	鼻中隔不正	2		1		1
 Chronic tonsillitis	慢性扁桃體炎		2	1	1				1	1
 Hypertrophy of tonsils	扁桃體過大	5	3	1	3	1	2			1
 Chronic maxillary sinusitis	上頜骨竇炎								1	
-Hypertrophic rhinitis	過長性鼻炎			1	1			3		
+Hypetrophic rhinitis	過長性鼻炎			1	1			3		
 Atrophic rhinitis	萎縮性鼻炎			1		1	1			
 Epistaxis	鼻衄	1	2		2				1	
 Hemorrhage from throat	喉流血		1							

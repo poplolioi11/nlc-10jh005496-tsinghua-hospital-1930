@@ -4,3 +4,25 @@
 - 影像 5 原圖下緣有館藏印章覆疊，依原圖記未定字，並保留原字與印頁。
 - 中英雙語詞與統計值依各表原印；原表空白保留空欄。英語拼法及跨頁印刷上的日期標頭差異依實際頁面保存。
 - 第 14 幅肺癆表原印小計為 9，逐列可讀值加總為 10。其他小計跨頁或與分項不合者仍待獨立複核；未以算值覆蓋原刊。
+- 影像 24 濕疹二月值仍用 □，候選 3、2；影像 33 其他墨損格留疑。影像 28 首欄依原圖錄「十八年九月至十月」。
+- 影像 5，p005-u007 原錄「村莊，十數小學，皆無施醫之處；故本校治療上之工作，不僅限」，訂為「村庄，十數小學，皆無施醫之處；故本校治療上之工作，不僅限」。
+- 影像 5，p005-u025 原錄「於名下注之。每星期查冊一次，逾一星期未來治者，則用函使知」，訂為「於名下記之。每星期查冊一次，逾一星期未來治者，則用函使知」。
+- 影像 6，p006-u013 原錄「分之三。在十八年十二月開始學生與校工身體檢查，逮接五月中」，訂為「分之三。在十八年十二月開始學生與校工身體檢查，連接五月中」。
+- 影像 11，p011-u029 原錄「睾丸未下」，訂為「睪丸未下」。
+- 影像 12，p012-u004 原錄「睾丸未下」，訂為「睪丸未下」。
+- 影像 15，p015-r11 原錄「2　Neurological diseases」，訂為「2　Neuralogical diseases」。
+- 影像 15，p015-r30 原錄「7　Genito-urinary diseases」，訂為「7　Genitc-urinary diseases」。
+- 影像 16，p016-l08 原錄「Chronic bacillary dysentery」，訂為「Cnronic bacillary dysentery」。
+- 影像 18，p018-l04 原錄「條虫病」，訂為「絛虫病」。
+- 影像 21，p021-l08 原錄「出血性紫斑」，訂為「出血性紫癜」。
+- 影像 24，p024-l17 原錄「…… erythimatous」，訂為「…… erythmatous」。
+- 影像 28，p028-l04 原錄「Infection of hand」，訂為「Infecti on of hand」。
+- 影像 30，p030-l09 原錄「齒槽膿漏」，訂為「齒槽膿毒」。
+- 影像 30，p030-l18 原錄「睾丸未下」，訂為「睪丸未下」。
+- 影像 31，p031-l04 原錄「急性睾丸炎」，訂為「急性睪丸炎」。
+- 影像 31，p031-l04 原錄「尿道□充血」，訂為「尿道脊充血」。
+- 影像 31，p031-l04 原錄「Gonorrheal urethritis」，訂為「Conorrheal urethritis」。
+- 影像 32，p032-l07 原錄「Hypertrophic rhinitis」，訂為「Hypetrophic rhinitis」。
+- 影像 18，p018-l16 原錄「2 Neurological diseases　腦系神經病」，訂為「2 Neuralogical diseases　腦系神經病」。
+- 影像 21，p021-l07 原錄「5 Cardiovascular diseases　心脈病」，訂為「5 Cardiovascular diseases　心臟病」。
+- 影像 24，p024-l16 原錄「2 Inflammations　發炎類」，訂為「2 Inflamminations　發炎類」。
